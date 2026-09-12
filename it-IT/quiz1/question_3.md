@@ -1,27 +1,27 @@
+## --- question ---
 
---- question ---
----
-legend: Domanda 3 di 3
----
+## legend: Question 3 of 3
 
-Nel tuo progetto, hai fatto dire a Nano "Grazie". Quale codice hai usato per portare la mano di Nano alla sua bocca?
+In your project, you made Nano sign "thank you". Which code did you use to get Nano to move a hand to their mouth?
 
---- choices ---
+\--- choices ---
 
 - ( )
+
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Ciao!] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Questo codice riproduce un suono e mostra un fumetto.
+This code plays a sound and shows a speech bubble.
 
-  --- /feedback ---
+\--- /feedback ---
 
 - ( )
+
 ```blocks3
 when this sprite clicked
 set [color v] effect to [50] 
@@ -29,13 +29,14 @@ think [Hmm...] for [2] seconds
 clear graphic effects 
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Questo codice cambia il colore dello sprite e mostra un fumetto pensieroso.
+This code changes the colour of the sprite and shows a thought bubble.
 
-  --- /feedback ---
+\--- /feedback ---
 
 - (x)
+
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 
@@ -43,13 +44,14 @@ wait (0.5) seconds
 switch costume to [nano-a v]
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Sì. Il blocco `passa al costume`{:class="block3looks"} cambia il costume dello sprite in modo che il braccio si muova.
+Yes. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
 
-  --- /feedback ---
+\--- /feedback ---
 
 - ( )
+
 ```blocks3
 when this sprite clicked
 set [color v] effect to [50]
@@ -57,12 +59,12 @@ start sound [Alien Creak1 v]
 clear graphic effects 
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Questo codice cambia il colore dello sprite e riproduce un suono.
+This code changes the colour of the sprite and plays a sound.
 
-  --- /feedback ---
+\--- /feedback ---
 
---- /choices ---
+\--- /choices ---
 
---- /question ---
+\--- /question ---
