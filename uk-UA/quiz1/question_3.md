@@ -1,41 +1,42 @@
+## --- question ---
 
---- question ---
----
-legend: Питання 3 з 3
----
+## legend: Question 3 of 3
 
-У твоєму проєкті ти змусив Nano сказати "дякую". Який код був використаний, щоб змусити Nano піднести руку до рота?
+In your project, you made Nano sign "thank you". Which code did you use to get Nano to move a hand to their mouth?
 
---- choices ---
+\--- choices ---
 
 - ( )
+
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Привіт!] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Цей код відтворює звук і показує мовну бульбашку.
+This code plays a sound and shows a speech bubble.
 
-  --- /feedback ---
+\--- /feedback ---
 
 - ( )
+
 ```blocks3
 when this sprite clicked
 set [color v] effect to [50] 
-think [Хмм...] for [2] seconds 
+think [Hmm...] for [2] seconds 
 clear graphic effects 
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Цей код змінює колір спрайта і показує бульбашку з думками.
+This code changes the colour of the sprite and shows a thought bubble.
 
-  --- /feedback ---
+\--- /feedback ---
 
 - (x)
+
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 
@@ -43,13 +44,14 @@ wait (0.5) seconds
 switch costume to [nano-a v]
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Так. Блоки `змінити образ на`{:class="block3looks"} змінили образ спрайта таким чином, щоб рука рухалася.
+Yes. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
 
-  --- /feedback ---
+\--- /feedback ---
 
 - ( )
+
 ```blocks3
 when this sprite clicked
 set [color v] effect to [50]
@@ -57,12 +59,12 @@ start sound [Alien Creak1 v]
 clear graphic effects 
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Цей код змінює колір спрайта та відтворює звук.
+This code changes the colour of the sprite and plays a sound.
 
-  --- /feedback ---
+\--- /feedback ---
 
---- /choices ---
+\--- /choices ---
 
---- /question ---
+\--- /question ---

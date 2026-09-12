@@ -1,41 +1,42 @@
+## --- question ---
 
---- question ---
----
-legend: Question 3 sur 3
----
+## legend: Question 3 of 3
 
-Dans ton projet, tu as fait faire un signe « merci » à Nano . Quel code as-tu utilisé pour que Nano porte une main à sa bouche ?
+In your project, you made Nano sign "thank you". Which code did you use to get Nano to move a hand to their mouth?
 
---- choices ---
+\--- choices ---
 
 - ( )
+
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Bonjour !] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Ce code émet un son et affiche une bulle de dialogue.
+This code plays a sound and shows a speech bubble.
 
-  --- /feedback ---
+\--- /feedback ---
 
 - ( )
+
 ```blocks3
 when this sprite clicked
 set [color v] effect to [50] 
-think [Hum...] for [2] seconds 
+think [Hmm...] for [2] seconds 
 clear graphic effects 
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Ce code change la couleur du sprite et affiche une bulle de pensée.
+This code changes the colour of the sprite and shows a thought bubble.
 
-  --- /feedback ---
+\--- /feedback ---
 
 - (x)
+
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 
@@ -43,13 +44,14 @@ wait (0.5) seconds
 switch costume to [nano-a v]
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Oui. Les blocs `basculer sur le costume`{:class="block3looks"} changent le costume du sprite pour que le bras bouge.
+Yes. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
 
-  --- /feedback ---
+\--- /feedback ---
 
 - ( )
+
 ```blocks3
 when this sprite clicked
 set [color v] effect to [50]
@@ -57,12 +59,12 @@ start sound [Alien Creak1 v]
 clear graphic effects 
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Ce code change la couleur du sprite et joue un son.
+This code changes the colour of the sprite and plays a sound.
 
-  --- /feedback ---
+\--- /feedback ---
 
---- /choices ---
+\--- /choices ---
 
---- /question ---
+\--- /question ---

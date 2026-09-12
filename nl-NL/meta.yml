@@ -1,26 +1,26 @@
 ---
-title: Ruimte praat
+title: Space talk
 hero_image: images/banner.png
-description: Gebruik Scratch om sprites een 'emotie' te geven zodat ze communiceren wanneer erop wordt geklikt
-meta_title: Scratch-programmeerprojecten voor kinderen en tieners | Inleiding tot Scratch
-meta_description: Leer coderen in Scratch met de programmeerprojecten voor kinderen en tieners van de Raspberry Pi Foundation. Maak Scratch-animaties, games, apps en meer.
+description: Use Scratch to give sprites an 'emote' so that they communicate when clicked
+meta_title: Scratch coding projects for kids and teens | Intro to Scratch
+meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make Scratch animations, games, apps, and more.
 pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
 last_tested: "2021-02-09"
 steps:
-  - title: Wat ga je maken
-  - title: Creëer je scène
-  - title: Pico zegt hallo
+  - title: What you will make
+  - title: Create your scene
+  - title: Pico says hello
     completion:
       - engaged
-  - title: Pico maakt een geluid
-  - title: Nano wisselt van uiterlijk
-  - title: Nano gebaart "Bedankt!"
-  - title: Giga verandert van kleur
+  - title: Pico plays a sound
+  - title: Nano switches costumes
+  - title: Nano signs "Thanks!"
+  - title: Giga changes colour
     completion:
-      - external
-  - title: Snelle quiz
+      - internal
+  - title: Quick quiz
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -28,4 +28,4 @@ steps:
       passing_score: 3
     completion:
       - external
-  - title: Verbeter je project
+  - title: Upgrade your project

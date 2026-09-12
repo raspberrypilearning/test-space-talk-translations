@@ -1,82 +1,81 @@
-## Nano gebaart "Bedankt!"
+## Nano signs "Thanks!"
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-Laat Nano een gebaar maken door het uiterlijk aan te passen.
+Get Nano to sign by editing a costume.
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Miljoenen mensen gebruiken gebarentaal om te communiceren. Een veel voorkomend 'Dankjewel' gebaar maak je door je vingers op je kin te leggen met je hand zo plat mogelijk. Dan beweeg je je hand naar voren, van je kin af en iets naar beneden. 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
 </p>
-
 
 </div>
 <div>
 
-![De Nano sprite zegt: "Dank je!"](images/nano-step-2.png){:width="300px"}
+![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
 
-### Nano gebruikt gebarentaal
+### Nano uses sign language
 
-Je gaat het uiterlijk van Nano bewerken om hem het gebaar "dank je" te laten doen.
+You will edit a costume of Nano to get them to sign "thank you".
 
-Je kunt uiterlijken voor sprites bewerken met de Teken-editor.
+You can edit costumes for sprites with the Paint editor.
 
---- task ---
+\--- task ---
 
-Klik op het **Uiterlijken** tabblad om de uiterlijken voor de **Nano** sprite te zien:
+Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
 
-![De beschikbare uiterlijken voor de Nano sprite.](images/nano-costumes.png)
+![The available costumes for the Nano sprite.](images/nano-costumes.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Klik op het **nano-b** uiterlijk. Klik op de arm aan de linkerkant.
+Click on the **nano-b** costume. Click on the arm on the left-hand side.
 
-![Het nano-b-uiterlijk met de linkerarm geselecteerd.](images/nano-left-arm-selected.png)
+![The nano-b costume with the left arm selected.](images/nano-left-arm-selected.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Selecteer de dubbele 'draai'-pijl en sleep de muis omhoog om de arm te draaien.
+Select the double-headed 'rotate' arrow and drag the mouse up to rotate the arm.
 
-![Het draai gereedschap is geselecteerd](images/rotate-tool.png)
+![The rotate tool highlighted](images/rotate-tool.png)
 
-![De draairichting - naar boven en naar links](images/rotate-demo.png)
+![The direction to rotate - curving up and to the left](images/rotate-demo.png)
 
-Het uiterlijk zou er als volgt uit moeten zien:
+The costume should look like this:
 
-![Nano's arm draaide zodat hij zijn kin raakte](images/nano-arm-rotated.png)
+![Nano's arm rotated so it touches their chin](images/nano-arm-rotated.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Selecteer het 'naar voorkant' gereedschap om de arm de voorste laag te maken.
+Select the 'Front' tool to make the arm the front layer.
 
-![Nano's arm op de voorste laag](images/nano-arm-front.png)
+![Nano's arm at the front layer](images/nano-arm-front.png)
 
---- /task ---
+\--- /task ---
 
-**Tip:** Als je een fout maakt in de Teken-editor, kun je klikken op **Ongedaan maken**.
+**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
 
-![Het pictogram 'Ongedaan maken'.](images/nano-undo.png)
+![The 'Undo' icon.](images/nano-undo.png)
 
---- no-print ---
+\--- no-print ---
 
-![Animatie die laat zien hoe de arm wordt gedraaid en op de voorste laag wordt geplaatst.](images/nano-rotate-resize-lrg.gif)
+![Animation showing rotating the arm and placing it on the front layer.](images/nano-rotate-resize-lrg.gif)
 
---- /no-print ---
+\--- /no-print ---
 
---- task ---
+\--- task ---
 
-**Test:** Klik op de **Nano** sprite in het Speelveld en controleer of Nano's uiterlijk verandert in het uiterlijk dat je hebt bewerkt.
+**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes to the costume that you have edited.
 
---- /task ---
+\--- /task ---
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Je hebt het gebaar voor "dank je" geleerd. Waarom zou je de volgende keer dat je iemand bedankt, je nieuwe vaardigheid niet gebruiken?
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
 </p>
 
