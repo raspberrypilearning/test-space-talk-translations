@@ -1,117 +1,117 @@
-## Creëer je scène
+## Create your scene
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Stel je project in met een ruimteachtergrond en de eerste sprite. 
+Set up your project with a space backdrop and the first sprite. 
 </div>
 <div>
 
-![De ruimte achtergrond met de Pico-sprite.](images/backdrop-step.png){:width="300px"}
+![The Space backdrop with the Pico sprite.](images/backdrop-step.png){:width="300px"}
 
 </div>
 </div>
 
-### Open het startproject
+### Open the starter project
 
---- task ---
+\--- task ---
 
-Open het [Ruimte praat start-project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch wordt in een nieuwe browsertabblad geopend.
+Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch will open in another browser tab.
 
 [[[working-offline]]]
 
---- /task ---
+\--- /task ---
 
-### De Scratch-editor
+### The Scratch editor
 
-![Een schermafbeelding met commentaar van de Scratch-editor, met de labels Speelveld, Speelveld-paneel, Sprite-paneel, Sprite-lijst en Codegebied.](images/scratch-interface.png)
+![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
 
-### Een achtergrond toevoegen
+### Add a backdrop
 
-Het **Speelveld** is waar jouw project wordt uitgevoerd. Een **achtergrond** verandert de manier waarop het Speelveld eruit ziet.
+The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
 
---- task ---
+\--- task ---
 
-Klik (of tik op een tablet) op **Kies een Achtergrond** in het Speelveld-paneel:
+Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
 
-![Het pictogram 'Kies een achtergrond'.](images/backdrop-button.png)
+![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
 
-![De Scratch-editor met 'Kies een achtergrond' gemarkeerd in de rechterbenedenhoek.](images/choose-a-backdrop.png)
+![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Klik op de **Ruimte** categorie of typ `space` in het zoekvak:
+Click on the **Space** category or type `space` in the search box:
 
-![De Achtergrond-bibliotheek met de categorie 'Ruimte' geselecteerd.](images/space-backdrops.png)
+![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
 
---- /task ---
+\--- /task ---
 
-In ons voorbeeld hebben we de **Space** achtergrond gekozen, maar kies de achtergrond die je het leukst vindt.
+In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
 
---- task ---
+\--- task ---
 
-Klik op de door jouw gekozen achtergrond om deze aan je project toe te voegen. Het Speelveld zou de achtergrond moeten tonen die je hebt gekozen:
+Click on your chosen backdrop to add it to your project. The Stage should show the backdrop that you chose:
 
-![De Scratch-editor met de Space-achtergrond toegevoegd.](images/inserted-backdrop.png)
+![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
 
---- /task ---
+\--- /task ---
 
-### Voeg een sprite toe
+### Add a Sprite
 
-Zie je de sprite die al in je project is opgenomen? Dat is de Scratch kat.
+Can you see the sprite that is already included in your project? That is the Scratch Cat.
 
---- task ---
+\--- task ---
 
-Verwijder de **Sprite1** (Scratch kat): selecteer de sprite **Sprite1** in de sprite lijst onder het speelveld en klik op het pictogram **Verwijderen**.
+Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
 
-![Het pictogram 'Verwijderen'.](images/delete-sprite.png)
+![The 'Delete' icon.](images/delete-sprite.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Klik op **Kies een Sprite** in de Sprite-lijst:
+Click on **Choose a Sprite** in the Sprite list:
 
-![Het pictogram 'Kies een Sprite'.](images/sprite-button.png)
+![The 'Choose a Sprite' icon.](images/sprite-button.png)
 
-![De Scratch-editor met 'Kies een Sprite' gemarkeerd.](images/choose-a-sprite.png)
+![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Selecteer de categorie **Fantasie**. Klik op de **Pico** sprite om deze aan je project toe te voegen.
+Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
 
-![De categorie 'Fantasie' met de Pico sprite.](images/fantasy-pico.png)
+![The 'Fantasy' category with the Pico sprite.](images/fantasy-pico.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Sleep de **Pico** sprite naar de linkerkant van het Speelveld. Je Speelveld zou er ongeveer zo uit moeten zien:
+Drag the **Pico** sprite to position them on the left-hand side of the Stage. Your Stage should look something like this:
 
-![Het Speelveld met de gekozen achtergrond en de Pico-sprite aan de linkerkant.](images/pico-on-stage.png)
+![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-**Opslaan**: Als je bent aangemeld bij je Scratch-account, klik je op de groene Remix-knop. Hiermee wordt een kopie van het project opgeslagen in je Scratch-account.
+**Save**: If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
 
-![De Remix knop.](images/remix-button.png)
+![The remix button.](images/remix-button.png)
 
-Typ de naam van jouw project in het vak projectnaam bovenaan het scherm.
+Type the name of your project in the project name box at the top of the screen.
 
-![Het vak met de projectnaam.](images/project-name.png)
+![The project name box.](images/project-name.png)
 
-**Tip:** Geef je projecten nuttige namen zodat je ze gemakkelijk terug kunt vinden als je veel projecten hebt.
+**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
 
-Klik vervolgens op **Bestand** en dan op **Opslaan** om je project op te slaan.
+Next, click on **File**, and then on **Save now** to save your project.
 
-![De menuopties 'Bestand'.](images/file-menu.png)
+![The 'File' menu options.](images/file-menu.png)
 
-Als je niet online bent of geen Scratch-account hebt, kun je op **Opslaan op je computer** klikken om een kopie van jouw project op te slaan.
+If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
 
---- /task ---
+\--- /task ---
 
