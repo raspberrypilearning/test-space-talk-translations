@@ -1,35 +1,39 @@
-## Quello che farai
+## What you will make
 
-Crea una scena spaziale con personaggi 👾 che condividono i loro pensieri ed emozioni.
+Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
 
-In Scratch, i personaggi e gli oggetti sono chiamati **sprite** e appaiono nello **Stage**.
+In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
 
-Tu:
-+ Aggiungerai degli sprite e uno **sfondo** per iniziare il tuo progetto
-+ Cliccherai sugli sprite per farli comunicare usando i blocchi di codice `Aspetto`{:class="block3looks"} e `Suono`{:class="block3sound"}
-+ Userai **l'editor dei costumi** per modificare un **costume**
+You will:
 
---- no-print ---
---- task ---
-### Gioca ▶️
+- Add sprites and a **backdrop** to set up your project
+- Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
+- Use the **Paint editor** to change a **costume**
+
+\--- no-print ---
+\--- task ---
+
+### Play ▶️
+
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Clicca su ogni sprite per vedere quello che fanno. 
+Click on each sprite to see what they do. 
 
-Cosa succede se clicchi su uno sprite e poi clicchi velocemente su un altro sprite?
+What happens if you click on one sprite and then quickly click on another sprite?
+
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/946016490/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
 </div>
 </div>
 --- /task ---
 --- /no-print ---
 
---- print-only ---
+\--- print-only ---
 
-![Il progetto completo.](images/showcase_static.png)
+![The completed project.](images/showcase_static.png)
 
---- /print-only ---
+\--- /print-only ---
 
 ![](https://code.org/api/hour/begin_raspi_space.png)
 
