@@ -1,56 +1,55 @@
-## Швидкий тест
+## Quick quiz
 
-Дай відповідь на три запитання. Підказки допоможуть знайти правильну відповідь.
+Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
 
-Відповівши на кожне питання, натисни на **Перевірити мою відповідь**.
+When you have answered each question, click on **Check my answer**.
 
-Розважайся!
+Have fun!
 
---- question ---
----
-legend: Питання 1 з 3
----
+## --- question ---
 
-У твоєму проєкті було додано кілька спрайтів персонажів.
+## legend: Question 1 of 3
 
-Куди ти натиснеш, щоб **додати спрайт** до твого проєкту?
+In your project, you added some sprite characters.
 
-![Знімок з екрана повного редактора Scratch з: 1 - вкладка Образи 2 - вкладка Звуки, 3 - Список спрайтів, 4 - виділена панель Сцена.](images/question1.png)
+Where do you go to **add a sprite** to your project?
 
---- choices ---
+![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
 
-- () 1: Вкладка **Образи**
+\--- choices ---
 
-  --- feedback ---
+- ( ) 1: The **Costumes** tab
 
-Вкладка **Образи** призначена для редагування образа твого спрайта.
+  \--- feedback ---
 
-  --- /feedback ---
+You went to the **Costumes** tab to edit a costume for your sprite.
 
-- () 2: Вкладка **Звуки**
+\--- /feedback ---
 
-  --- feedback ---
+- ( ) 2: The **Sounds** tab
 
-Вкладка **Звуки** призначена для додавання нового звука для твого спрайта.
+  \--- feedback ---
 
-  --- /feedback ---
+You went to the **Sounds** tab to choose a new sound for your sprite.
 
-- (x) 3: Список спрайтів
+\--- /feedback ---
 
-  --- feedback ---
+- (x) 3: The Sprite list
 
-Так. Це місце, де ти можеш бачити всі спрайти, які використовуються у проєкті, додавати та видаляти спрайти, а також натискати на спрайти, щоб вибрати їх.
+  \--- feedback ---
 
-  --- /feedback ---
+Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
 
-- ( ) 4: Панель Сцени
+\--- /feedback ---
 
-  --- feedback ---
+- ( ) 4: The Stage pane
 
-Панель Сцени призначена для вибору тла.
+  \--- feedback ---
 
-  --- /feedback ---
+You went to the Stage pane to choose a backdrop.
 
---- /choices ---
+\--- /feedback ---
 
---- /question ---
+\--- /choices ---
+
+\--- /question ---

@@ -1,19 +1,19 @@
-Code tabblad
+Code tab
 
-Blokkenmenu
+Blocks menu
 
-Rugzak
+Backpack
 
 Zoom
 
-Sprite-lijst
+Sprite list
 
-Sprite-venster
+Sprite pane
 
-Speelveld venster
+Stage pane
 
-Speelveld venster
+Stage pane
 
-Volledig scherm
+Full screen
 
-Codegebied
+Code area
