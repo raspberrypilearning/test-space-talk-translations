@@ -1,50 +1,51 @@
-## Nano wisselt van uiterlijk
+## Nano switches costume
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 
-Je gaat Nano een emotie laten zien door van **Uiterlijk** te wisselen.
+Get Nano to emote by switching **costumes**.
 
-Sprites hebben **uiterlijken** om hun uiterlijk te veranderen. Het zijn meestal bijna dezelfde afbeeldingen van dezelfde sprite. Om een sprite te animeren, kun je zijn uiterlijk laten veranderen.
+Sprites have **costumes** to change the way that they look. They are usually slightly different images of the same sprite. To animate a sprite, you can change its costume.
 
 </div>
 <div>
 
-![De Nano sprite met uitgestrekte armen](images/nano-b-demo.png){:width="300px"}
+![The Nano sprite with arms out](images/nano-b-demo.png){:width="300px"}
 
 </div>
 </div>
 
---- task ---
+\--- task ---
 
-Voeg de **Nano** sprite uit de categorie **Fantasie** toe aan je project.
+Add the **Nano** sprite to your project from the **Fantasy** category.
 
-![Het pictogram 'Kies een Sprite'.](images/choose-sprite-menu.png)
+![The 'Choose a Sprite' icon.](images/choose-sprite-menu.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Zorg ervoor dat de **Nano** sprite geselecteerd is in de Sprite lijst onder het Speelveld.
+Make sure that the **Nano** sprite is selected in the Sprite list below the Stage.
 
-![De Sprite-lijst, met een blauwe rand rond de Nano sprite om aan te geven dat Nano is geselecteerd.](images/nano-selected.png)
+![The Sprite list, with a blue border around the Nano sprite to show that Nano is selected.](images/nano-selected.png)
 
-Klik op het tabblad **Code** en voeg een script toe om de **Nano**-sprite van uiterlijk te laten veranderen met behulp van `verander uiterlijk naar`{:class="block3looks"} en `wacht`{:class="block3control"}. Gebruik het drop down menu om te schakelen tussen `nano-b`{:class="block3looks"} en `nano-a`{:class="block3looks"}:
+Click on the **Code** tab and add a script to get the **Nano** sprite to change costume using `switch costume to`{:class="block3looks"} and `wait`{:class="block3control"}. Use the drop down menu to switch between `nano-b`{:class="block3looks"} and `nano-a`{:class="block3looks"}:
 
-![De Nano sprite.](images/nano-sprite.png)
+![The Nano sprite.](images/nano-sprite.png)
 
 ```blocks3
-when this sprite clicked // wanneer op Nano wordt geklikt
-switch costume to (nano-b v) // Nano praat
-wait (0.5) seconds // probeer 0.25 in plaats van 0.5
-switch costume to (nano-a v) // Nano lacht
+when this sprite clicked // when Nano is clicked
+switch costume to (nano-b v) // Nano talking
+wait (0.5) seconds // try 0.25 instead of 0.5
+switch costume to (nano-a v) // Nano smiling
 ```
---- /task ---
 
-**Tip:** Alle blokken hebben een kleurcode, dus je vindt het `verander uiterlijk naar`{:class="block3looks"} blok in het `Uiterlijken`{:class="block3looks"} blokkenmenu en het `wacht`{:class="block3control"} blok in het `Besturen`{:class="block3control"} blokkenmenu.
+\--- /task ---
 
---- task ---
+**Tip:** All the blocks are colour-coded, so you will find the `switch costume to`{:class="block3looks"} block in the `Looks`{:class="block3looks"} blocks menu and the `wait`{:class="block3control"} block in the `Control`{:class="block3control"} blocks menu.
 
-**Test:** Klik op de **Nano** sprite in het speelveld en controleer of Nano's uiterlijk verandert.
+\--- task ---
 
---- /task ---
+**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes.
+
+\--- /task ---

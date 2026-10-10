@@ -1,58 +1,58 @@
-## Giga change de couleur
+## Giga changes colour
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Les sprites peuvent également utiliser des bulles de pensée et changer de couleur pour montrer leur personnalité. Tu obtiendras de Giga de faire cela.
+Sprites can also use thought bubbles and change colours to show their personality. You will get Giga to do this.
 </div>
 <div>
 
-![Le sprite Giga pensant, « Hum... ».](images/giga-step2.png){:width="300px"}
+![The Giga sprite thinking, "Hmm...".](images/giga-step2.png){:width="300px"}
 
 </div>
 </div>
 
-### Faire changer Giga de couleur
+### Make Giga change colour
 
---- task ---
+\--- task ---
 
-Ajoute le sprite **Giga**.
+Add the **Giga** sprite.
 
-Fais glisser le sprite **Giga** sur le côté droit de la scène.
+Drag the **Giga** sprite to the right-hand side of the Stage.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Assure-toi que tu as sélectionné le sprite **Giga** dans la liste Sprite sous la scène. Ajoute ce code pour faire communiquer le sprite **Giga** en changeant de couleur :
+Make sure that you have the **Giga** sprite selected in the Sprite list below the Stage. Add this code to make the **Giga** sprite communicate by changing colour:
 
-![Le sprite Giga.](images/giga-sprite.png)
+![The Giga sprite.](images/giga-sprite.png)
 
 ```blocks3
 when this sprite clicked
-set [couleur v] effect to [0] // 0 est la couleur de départ
-think [Hum...] for [2] seconds 
-clear graphic effects // retour à la couleur de départ
+set [color v] effect to [0] // 0 is the starting colour
+think [Hmm...] for [2] seconds 
+clear graphic effects // back to the starting colour
 ```
 
---- /task ---
+\--- /task ---
 
-**Astuce :** Clique sur le sprite dans la liste Sprite sous la scène avant d'ajouter ou de modifier le code, les costumes ou le son. Assure-toi d'avoir cliqué sur le bon sprite.
+**Tip:** Click on the sprite in the Sprite list below the Stage before you add or change code, costumes, or sound. Make sure that you have clicked on the correct sprite.
 
---- task ---
+\--- task ---
 
-Essaie différents nombres de `1` à `200` dans le bloc `ajoute à l'effet couleur`{:class="block3looks"} jusqu'à ce que tu trouves une couleur que tu aimes.
+Try different numbers from `1` to `200` in the `set color effect to`{:class="block3looks"} block until you find a colour that you like.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Modifie les mots et le nombre de secondes dans le bloc `penser`{:class="block3looks"}.
+Change the words and number of seconds in the `think`{:class="block3looks"} block.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-**Test :** Clique sur le sprite **Giga** sur la Scène et vérifie que le sprite change de couleur et affiche une bulle de pensée.
+**Test:** Click on the **Giga** sprite on the Stage and check that the sprite changes colour and shows a thought bubble.
 
---- /task ---
+\--- /task ---
 
