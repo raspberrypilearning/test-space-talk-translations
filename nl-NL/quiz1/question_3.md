@@ -1,27 +1,27 @@
+## --- question ---
 
---- question ---
----
-legend: Vraag 3 van 3
----
+## legend: Question 3 of 3
 
-In je project heb je Nano "dank je" laten zeggen. Welke code heb je gebruikt om Nano een hand naar zijn mond te laten brengen?
+In your project, you made Nano sign "thank you". Which code did you use to get Nano to move a hand to their mouth?
 
---- choices ---
+\--- choices ---
 
 - ( )
+
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Hallo!] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Deze code speelt een geluid af en toont een tekstballon.
+This code plays a sound and shows a speech bubble.
 
-  --- /feedback ---
+\--- /feedback ---
 
 - ( )
+
 ```blocks3
 when this sprite clicked
 set [color v] effect to [50] 
@@ -29,13 +29,14 @@ think [Hmm...] for [2] seconds
 clear graphic effects 
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Deze code verandert de kleur van de sprite en toont een tekstballon.
+This code changes the colour of the sprite and shows a thought bubble.
 
-  --- /feedback ---
+\--- /feedback ---
 
 - (x)
+
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 
@@ -43,13 +44,14 @@ wait (0.5) seconds
 switch costume to [nano-a v]
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Ja. Het `verander uiterlijk naar`{:class="block3looks"} blok verandert het uiterlijk van de sprite zodat de arm beweegt.
+Yes. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
 
-  --- /feedback ---
+\--- /feedback ---
 
 - ( )
+
 ```blocks3
 when this sprite clicked
 set [color v] effect to [50]
@@ -57,12 +59,12 @@ start sound [Alien Creak1 v]
 clear graphic effects 
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Deze code verandert de kleur van de sprite en speelt een geluid af.
+This code changes the colour of the sprite and plays a sound.
 
-  --- /feedback ---
+\--- /feedback ---
 
---- /choices ---
+\--- /choices ---
 
---- /question ---
+\--- /question ---

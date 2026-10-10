@@ -1,35 +1,39 @@
-## परिचय
+## What you will make
 
-इस प्रोजेक्ट में, आप पात्रों के साथ एक अंतरिक्ष दृश्य बनाएंगे जो अपने विचारों या भावनाओं को साझा करने के लिए इमोट (भावना व्यक्त करना) करेंगे।
+Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
 
-स्क्रैच में, वर्णों और वस्तुओं को **स्प्राइट**कहा जाता है, और वे **चरण**पर दिखाई देते हैं।
+In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
 
-आप:
-+ अपना प्रोजेक्ट सेट करने के लिए स्प्राइट्स और **backdrop** डालेंगे
-+ `Looks`{:class="block3looks"} और `Sound`{:class="block3sound"} कोड ब्लॉक का उपयोग करके स्प्राइट से बातचीत करने के लिए क्लिक करें।
-+ **costume** बदलने के लिए **Paint editor** का उपयोग करें
+You will:
 
---- no-print ---
---- task ---
-### इसे आजमाएँ!
+- Add sprites and a **backdrop** to set up your project
+- Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
+- Use the **Paint editor** to change a **costume**
+
+\--- no-print ---
+\--- task ---
+
+### Play ▶️
+
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-प्रत्येक स्प्राइट पर क्लिक करके देखें कि वे क्या करते हैं। 
+Click on each sprite to see what they do. 
 
-क्या होता है यदि आप एक स्प्राइट पर क्लिक करते हैं और फिर जल्दी से दूसरे स्प्राइट पर क्लिक करते हैं?
+What happens if you click on one sprite and then quickly click on another sprite?
+
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/658227120/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
 </div>
 </div>
 --- /task ---
 --- /no-print ---
 
---- print-only ---
+\--- print-only ---
 
-![पूरा हुआ प्रोजेक्ट।](images/showcase_static.png)
+![The completed project.](images/showcase_static.png)
 
---- /print-only ---
+\--- /print-only ---
 
 ![](https://code.org/api/hour/begin_raspi_space.png)
 

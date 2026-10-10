@@ -1,27 +1,27 @@
+## --- question ---
 
---- question ---
----
-legend: Pergunta 3 de 3
----
+## legend: Question 3 of 3
 
-Em seu projeto, você fez o Nano fazer o sinal de "obrigado". Qual código você usou para fazer o Nano levar a mão à boca?
+In your project, you made Nano sign "thank you". Which code did you use to get Nano to move a hand to their mouth?
 
---- choices ---
+\--- choices ---
 
 - ( )
+
 ```blocks3
 when this sprite clicked
 start sound [Alien Creak1 v]
-say [Olá!] for [2] seconds 
+say [Hello!] for [2] seconds 
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Este código reproduz um som e mostra um balão de fala.
+This code plays a sound and shows a speech bubble.
 
-  --- /feedback ---
+\--- /feedback ---
 
 - ( )
+
 ```blocks3
 when this sprite clicked
 set [color v] effect to [50] 
@@ -29,13 +29,14 @@ think [Hmm...] for [2] seconds
 clear graphic effects 
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Este código muda a cor do sprite e mostra um balão de pensamento.
+This code changes the colour of the sprite and shows a thought bubble.
 
-  --- /feedback ---
+\--- /feedback ---
 
 - (x)
+
 ```blocks3
 when this sprite clicked
 switch costume to [nano-b v] 
@@ -43,13 +44,14 @@ wait (0.5) seconds
 switch costume to [nano-a v]
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Sim. O bloco `mude para a fantasia`{:class="block3looks"} muda a roupa do ator para que o braço se mova.
+Yes. The `switch costume to`{:class="block3looks"} blocks change the sprite's costume so that the arm moves.
 
-  --- /feedback ---
+\--- /feedback ---
 
 - ( )
+
 ```blocks3
 when this sprite clicked
 set [color v] effect to [50]
@@ -57,12 +59,12 @@ start sound [Alien Creak1 v]
 clear graphic effects 
 ```
 
-  --- feedback ---
+\--- feedback ---
 
-Este código muda a cor do ator e reproduz um som.
+This code changes the colour of the sprite and plays a sound.
 
-  --- /feedback ---
+\--- /feedback ---
 
---- /choices ---
+\--- /choices ---
 
---- /question ---
+\--- /question ---
