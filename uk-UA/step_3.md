@@ -1,90 +1,95 @@
-## Pico вітається
+## Pico says hello
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Спрайт може мати код, образи та звуки, які змінюють його зовнішній вигляд та дії. 
-  
-Додай блоки коду, щоб змусити Pico вимовляти слова та звуки при натисканні на його спрайт.
+A sprite can have code, costumes, and sounds to change the way that it looks and what it does. 
+
+Add code blocks to make Pico emote with words and sound when the sprite is clicked.
+
 </div>
 <div>
 
-![Спрайт Pico, який каже: "Привіт!"](images/pico-step2.png){:width="300px"}
+![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Емоції**</span> - це спосіб показати особистість персонажа в грі. Вони можуть використовувати мову, звуки, рух та графічні ефекти, як і в Scratch. Чи граєш ти в ігри, які використовують емоції?
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
 </p>
 
-### Використовуй блок говорити
+### Use the say block
 
---- task ---
+\--- task ---
 
-Відкрий меню блоків `Вигляд`{:class="block3looks"}.
+Open the `Looks`{:class="block3looks"} blocks menu.
 
-Клацни на блок `говорити`{:class="block3looks"} `Привіт!` `на`{:class="block3looks"} `2` `секунд`{:class="block3looks"} блок.
+Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
 
-![Блок говорити 'Привіт! 2 сек' світиться жовтим контуром.](images/pico-say-hello-blocks-menu.png)
+![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
 
-Спрайт **Pico** покаже мовну бульбашку на дві секунди.
+The **Pico** sprite will show a speech bubble for two seconds.
 
-![Спрайт Pico зі словами "Привіт!" у мовній бульбашці.](images/pico-say-hello-stage.png)
+![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
 
-**Порада:** У Scratch, блоки коду світяться жовтим контуром під час виконання.
+**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Перетягни блок `говорити`{:class="block3looks"} `Привіт!` `на`{:class="block3looks"} `2` `секунд`{:class="block3looks"} блок до Області коду. Знову натисни на нього.
+Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
 
-![Перетягування блоку 'говорити' в Область Коду та натискання на нього для запуску.](images/pico-drag-say.gif)
+![Dragging the 'say' block to the Code area and clicking on it to run it.](images/pico-drag-say.gif)
 
-![Блок 'говорити' був перетягнутий в Область коду. Блок коду світиться жовтим контуром.](images/pico-drag-say.png)
+![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
 
---- /task ---
+\--- /task ---
 
-### Зроби так, щоб Pico говорив при натисканні (або торканні)
+### Make Pico talk when clicked (or tapped)
 
---- task ---
+\--- task ---
 
-Перетягни блок `коли спрайт натиснуто`{:class="block3events"} з меню блоків `Події`{:class="block3events"} та з'єднай його з верхньою частиною блока `говорити`{:class="block3looks"} в Області коду. Блоки з'єднаються між собою.
+Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. The blocks will snap together.
 
-![Анімація з'єднання блоків між собою. Якщо на Pico натиснути, то протягом двох секунд він буде говорити "Привіт!".](images/pico-snap-together.gif)
+![An animation of the blocks snapping together. When Pico is clicked on, they say "Hello!" for two seconds.](images/pico-snap-together.gif)
 
-![Спрайт Pico.](images/pico-sprite.png)
+![The Pico sprite.](images/pico-sprite.png)
 
 ```blocks3
 +when this sprite clicked
-say [Привіт!] for [2] seconds // приховати мову через 2 секунди
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
---- /task ---
+\--- /task ---
 
-### Коментарі до коду
+### Code comments
+
+\--- task ---
 
 ```blocks3
-say [Привіт!] for [2] seconds // приховати мову через 2 секунди
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-Ти побачиш коментарі в прикладах коду. Тобі не потрібно писати коментарі при додаванні коду в проєкт.
 
-Якщо у тебе є час, коли ти закінчиш свій проєкт, бажано додати коментарі до свого коду, щоб потім було легше розібратися в ньому. Щоб додати коментар, натисни правою кнопкою миші (або на планшеті торкнись і утримуй) на блоці в Області коду та вибери **Додати коментар**.
+You will see comments in code examples. You don't need to add the comments when you add code to your project.
 
-![Спливне меню, яке з'являється при натисканні правою кнопкою миші на блоці. 'Додати коментар' вибрано.](images/add-comment.png)
+If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. Try adding a comment now. Right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
 
-### Тест
+![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
 
---- task ---
+\--- /task ---
 
-**Тест:** Натисни на спрайт **Pico** на Сцені та перевір, щоб мовна бульбашка з'явилася на дві секунди. Важливо тестувати свій код, щоб переконатися, що він працює так, як ти очікуєш.
+### Test
 
---- /task ---
+\--- task ---
 
---- task ---
+**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
 
-Твій проєкт вже збережено і має назву. Scratch тепер буде **автоматично** зберігати проєкт для тебе.
+\--- /task ---
 
-Ти все ще можеш натиснути на кнопку збереження, просто для впевненості.
+\--- task ---
 
---- /task ---
+You have already saved your project and given it a name. Scratch will now **automatically** save for you.
+
+You can still click save if you like, just to make sure.
+
+\--- /task ---
