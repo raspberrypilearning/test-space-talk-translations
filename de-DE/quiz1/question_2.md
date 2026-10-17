@@ -1,51 +1,49 @@
+## --- question ---
 
---- question ---
----
-legend: Frage 2 von 3
----
+## legend: Question 2 of 3
 
-Du hast Pico `sage`{:class="block3looks"} "Hallo!" in einer Sprechblase sagen lassen.
+You made Pico `say`{:class="block3looks"} "Hello!" in a speech bubble.
 
 ```blocks3
-say [Hallo!] for [2] seconds
+say [Hello!] for [2] seconds
 ```
 
-Wo würdest du diesen Block finden?
+Where would you go to find this block?
 
---- choices ---
+\--- choices ---
 
-- (x) `Aussehen`{:class="block3looks"}
+- (x) `Looks`{:class="block3looks"}
 
-  --- feedback ---
+  \--- feedback ---
 
-Ja. Der `sage`{:class="block3looks"} Block ist im `Aussehen`{:class="block3looks"} Block Menü und hat die gleich Farbe wie der Block.
+Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
 
-  --- /feedback ---
+\--- /feedback ---
 
-- ( ) `Klang`{:class="block3sound"}
+- ( ) `Sound`{:class="block3sound"}
 
-  --- feedback ---
+  \--- feedback ---
 
-Die Blöcke im `Klang`{:class="block3sound"} Menü werden dazu benutzt, um Sprites Töne wiedergeben zu lassen.
+The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
 
-  --- /feedback ---
+\--- /feedback ---
 
-- ( ) `Bewegung`{:class="block3motion"}
+- ( ) `Motion`{:class="block3motion"}
 
-  --- feedback ---
+  \--- feedback ---
 
-Die Blöcke im `Bewegung`{:class="block3motion"} Menü, werden dazu benutzt, Sprites bewegen zu lassen.
+The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
 
-  --- /feedback ---
+\--- /feedback ---
 
-- ( ) `Ereignisse`{:class="block3events"}
+- ( ) `Events`{:class="block3events"}
 
-  --- feedback ---
+  \--- feedback ---
 
-Die Blöcke im `Ereignisse`{:class="block3events"} Menü, werden dazu benutzt um Dinge passieren zu lassen.
+The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
 
-  --- /feedback ---
+\--- /feedback ---
 
---- /choices ---
+\--- /choices ---
 
---- /question ---
+\--- /question ---

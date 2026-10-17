@@ -1,35 +1,39 @@
-## はじめに
+## What you will make
 
-キャラクター👾が「感情を表現（エモート）」して考えや感情をやりとりする宇宙の場面をつくります。
+Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
 
-Scratchでは、キャラクターとオブジェクトは**スプライト**と呼ばれ**ステージ**上に表示されます。
+In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
 
-次のことを行います。
-+ スプライトと**背景**を追加して、プロジェクトをセットアップします
-+ `見た目`{:class="block3looks"}および`音`{:class="block3sound"}コードブロックを使い、スプライトをクリックするとコミュニケーションが行われるようにします
-+ **ペイントエディタ**を使って**コスチューム**を変更します
+You will:
 
---- no-print --- 
---- task ---
-### プレイ ▶️
+- Add sprites and a **backdrop** to set up your project
+- Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
+- Use the **Paint editor** to change a **costume**
+
+\--- no-print ---
+\--- task ---
+
+### Play ▶️
+
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-各スプライトをクリックして何が起きるか確認します。 
+Click on each sprite to see what they do. 
 
-あるスプライトをクリックしてから別のスプライトをすばやくクリックするとどうなりますか？
+What happens if you click on one sprite and then quickly click on another sprite?
+
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/606912139/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
 </div>
 </div>
---- /task --- --- /no-print ---
+--- /task ---
+--- /no-print ---
 
---- print-only ---
+\--- print-only ---
 
-![完成したプロジェクト。](images/showcase_static.png)
+![The completed project.](images/showcase_static.png)
 
---- /print-only ---
+\--- /print-only ---
 
 ![](https://code.org/api/hour/begin_raspi_space.png)
-
 
