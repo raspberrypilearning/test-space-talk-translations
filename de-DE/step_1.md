@@ -1,35 +1,39 @@
-## Das wirst Du machen
+## What you will make
 
-Erstelle eine Weltraumszene mit Charakteren 👾, die „Emotionen“ zeigen, um ihre Gedanken oder Gefühle mitzuteilen.
+Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
 
-In Scratch werden Charaktere und Objekte **Figuren** genannt und erscheinen auf der **Bühne**.
+In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
 
-Du wirst:
-+ Figuren und einen **Hintergrund** hinzufügen, um dein Projekt einzurichten
-+ Figuren anklicken, um sie mithilfe der Codeblöcke `Aussehen`{:class="block3looks"} und `Klang`{:class="block3sound"} kommunizieren zu lassen
-+ Den **Mal-Editor** verwenden, um ein **Kostüm** zu ändern
+You will:
 
---- no-print ---
---- task ---
-### Spielen ▶️
+- Add sprites and a **backdrop** to set up your project
+- Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
+- Use the **Paint editor** to change a **costume**
+
+\--- no-print ---
+\--- task ---
+
+### Play ▶️
+
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Klicke auf jede Figur, um zu sehen, was sie tut. 
+Click on each sprite to see what they do. 
 
-Was passiert, wenn Du auf eine Figur klickst und dann schnell auf ein andere Figur klickst?
+What happens if you click on one sprite and then quickly click on another sprite?
+
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/1081644565/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
 </div>
 </div>
 --- /task ---
 --- /no-print ---
 
---- print-only ---
+\--- print-only ---
 
-![Das fertige Projekt.](images/showcase_static.png)
+![The completed project.](images/showcase_static.png)
 
---- /print-only ---
+\--- /print-only ---
 
 ![](https://code.org/api/hour/begin_raspi_space.png)
 
