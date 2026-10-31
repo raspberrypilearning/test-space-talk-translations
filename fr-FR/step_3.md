@@ -1,94 +1,95 @@
-## Pico dit bonjour
+## Pico says hello
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Un sprite peut avoir du code, des costumes et des sons pour changer son apparence et ce qu'il fait. 
-  
-Ajoute des blocs de code pour que Pico s'exprime avec des mots et des sons lorsque tu cliques sur le sprite.
+A sprite can have code, costumes, and sounds to change the way that it looks and what it does. 
+
+Add code blocks to make Pico emote with words and sound when the sprite is clicked.
+
 </div>
 <div>
 
-![Le sprite Pico disant : "Bonjour !"](images/pico-step2.png){:width="300px"}
+![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Les émoticônes**</span> sont un moyen de montrer la personnalité d'un personnage dans un jeu. Elles peuvent utiliser la parole, les sons, les mouvements et les effets graphiques, tout comme dans Scratch. Joues-tu à des jeux qui utilisent des émoticônes ?
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;"><span style="color: #0faeb0">**Emotes**</span> are a way of showing the personality of a character in a game. They can use speech, sounds, movement, and graphic effects, just like in Scratch. Do you play any games that use emotes?
 </p>
 
-### Utilise le bloc dire
+### Use the say block
 
---- task ---
+\--- task ---
 
-Ouvre le menu bloc `Apparence`{:class="block3looks"}.
+Open the `Looks`{:class="block3looks"} blocks menu.
 
-Clique sur un bloc `dire`{:class="block3looks"} `Bonjour !` `pendant`{:class="block3looks"} `2` `secondes`{:class="block3looks"}.
+Click on a `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block.
 
-![Le "dire bonjour !" le bloc pendant 2 secondes en surbrillance avec un contour jaune.](images/pico-say-hello-blocks-menu.png)
+![The 'say Hello! for 2 seconds' block glowing with a yellow outline.](images/pico-say-hello-blocks-menu.png)
 
-Le sprite **Pico** affichera une bulle de dialogue pendant deux secondes.
+The **Pico** sprite will show a speech bubble for two seconds.
 
-![Le sprite Pico avec "Bonjour!" dans une bulle de dialogue.](images/pico-say-hello-stage.png)
+![The Pico sprite with "Hello!" in a speech bubble.](images/pico-say-hello-stage.png)
 
-**Astuce :** les blocs de code dans Scratch brillent d'un contour jaune lorsqu'ils sont en cours d'exécution.
+**Tip:** Code blocks in Scratch glow with a yellow outline when they are running.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Fais glisser le bloc `dire`{:class="block3looks"} `Bonjour !` `pendant`{:class="block3looks"} `2` `secondes`{:class="block3looks"} dans la zone de Code. Clique à nouveau dessus.
+Drag the `say`{:class="block3looks"} `Hello!` `for`{:class="block3looks"} `2` `seconds`{:class="block3looks"} block to the Code area. Click on it again.
 
-![Glisser le bloc « dire » vers la zone de code et cliquer dessus pour l'exécuter.](images/pico-drag-say.gif)
+![Dragging the 'say' block to the Code area and clicking on it to run it.](images/pico-drag-say.gif)
 
-![Le bloc « dire » a été déplacé vers la zone de Code. Le bloc de code en surbrillance avec un contour jaune.](images/pico-drag-say.png)
+![The 'say' block has been dragged to the Code area. The code block glows with a yellow outline.](images/pico-drag-say.png)
 
---- /task ---
+\--- /task ---
 
-### Faire parler Pico lorsqu'il est cliqué (ou tapé)
+### Make Pico talk when clicked (or tapped)
 
---- task ---
+\--- task ---
 
-Fais glisser un `quand ce sprite est cliqué` du `bloc d'événements`{:class="block3events"} et connecte-le en haut de ton bloc `dire`{:class="block3looks"} dans la zone de Code. Les blocs vont s'imbriquer.
+Drag a `when this sprite clicked`{:class="block3events"} block from the `Events`{:class="block3events"} blocks menu and connect it to the top of your `say`{:class="block3looks"} block in the Code area. The blocks will snap together.
 
-![Une animation des blocs qui s'imbriquent. Lorsqu'on clique sur Pico, ils disent "Bonjour !" pendant deux secondes.](images/pico-snap-together.gif)
+![An animation of the blocks snapping together. When Pico is clicked on, they say "Hello!" for two seconds.](images/pico-snap-together.gif)
 
-![Le sprite Pico.](images/pico-sprite.png)
+![The Pico sprite.](images/pico-sprite.png)
 
 ```blocks3
 +when this sprite clicked
-say [Bonjour !] for [2] seconds // masquer la parole après 2 secondes
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
---- /task ---
+\--- /task ---
 
-### Commentaires de code
+### Code comments
 
---- task ---
+\--- task ---
 
 ```blocks3
-say [Bonjour !] for [2] seconds // masquer la parole après 2 secondes
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
-Tu verras des commentaires dans les exemples de code. Tu n'as pas besoin d'ajouter les commentaires lorsque tu ajoutes du code à ton projet.
 
-Si tu as le temps lorsque tu as terminé ton projet, c'est une bonne idée d'ajouter des commentaires à ton code afin qu'il soit plus facile à comprendre plus tard. Essaie d'ajouter un commentaire maintenant. Fais un clic droit (ou tape et maintien sur une tablette) sur un bloc dans la zone Code et choisis **Ajouter un commentaire**.
+You will see comments in code examples. You don't need to add the comments when you add code to your project.
 
-![Le menu contextuel qui apparaît lorsque tu fais un clic droit sur un bloc. « Ajouter un commentaire » est sélectionné.](images/add-comment.png)
+If you have time when you have finished your project, it is a good idea to add comments to your code so that it is easier to understand later. Try adding a comment now. Right-click (or on a tablet, tap and hold) on a block in the Code area and choose **Add Comment**.
 
---- /task ---
+![The pop-up menu that appears when you right-click on a block. 'Add Comment' is selected.](images/add-comment.png)
+
+\--- /task ---
 
 ### Test
 
---- task ---
+\--- task ---
 
-**Test :** Clique sur le sprite **Pico** sur la Scène et vérifie que la bulle de dialogue apparaît pendant deux secondes. Il est important de tester ton code pour t'assurer qu'il fait ce que tu attends.
+**Test:** Click on the **Pico** sprite on the Stage and check that the speech bubble appears for two seconds. It is important to test your code to make sure that it does what you expect.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Tu as déjà sauvegardé ton projet et tu lui as donné un nom. Scratch va maintenant enregistrer **automatiquement** pour toi.
+You have already saved your project and given it a name. Scratch will now **automatically** save for you.
 
-Tu peux toujours cliquer sur Enregistrer si tu le souhaites, juste pour t'en assurer.
+You can still click save if you like, just to make sure.
 
---- /task ---
+\--- /task ---

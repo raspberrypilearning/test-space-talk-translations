@@ -1,56 +1,55 @@
-## ふりかえり
+## Quick quiz
 
-3つの質問に答えてスペーストークバッジを獲得してください。 あなたを正解に導くヒントがあります。
+Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
 
-それぞれの質問に回答したら、**送信**をクリックします。
+When you have answered each question, click on **Check my answer**.
 
-お楽しみください！
+Have fun!
 
---- question ---
----
-legend: 質問1/3
----
+## --- question ---
 
-プロジェクトで、いくつかのスプライトキャラクターを追加しました。
+## legend: Question 1 of 3
 
-プロジェクトに**スプライトを追加する**にはどこへ行きますか？
+In your project, you added some sprite characters.
 
-![1 — コスチューム タブ、2 — 音タブ、3スプライトリスト、4 —ステージペインが強調表示された、完全なScratchエディタの注釈付きスクリーンショット。](images/question1.png)
+Where do you go to **add a sprite** to your project?
 
---- choices ---
+![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
 
-- () 1： **コスチューム**タブ
+\--- choices ---
 
-  --- feedback ---
+- ( ) 1: The **Costumes** tab
 
-**コスチューム**タブでは、スプライトのコスチュームを編集しました。
+  \--- feedback ---
 
-  --- /feedback ---
+You went to the **Costumes** tab to edit a costume for your sprite.
 
-- () 2： **音**タブ
+\--- /feedback ---
 
-  --- feedback ---
+- ( ) 2: The **Sounds** tab
 
-**音**タブでは、スプライトの新しい音を選択しました。
+  \--- feedback ---
 
-  --- /feedback ---
+You went to the **Sounds** tab to choose a new sound for your sprite.
 
-- (x) 3：スプライトリスト
+\--- /feedback ---
 
-  --- feedback ---
+- (x) 3: The Sprite list
 
-はい。 ここでプロジェクト内のすべてのスプライトの表示、追加、削除ができます。スプライトをクリックすると選択できます。
+  \--- feedback ---
 
-  --- /feedback ---
+Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
 
-- () 4：ステージペイン
+\--- /feedback ---
 
-  --- feedback ---
+- ( ) 4: The Stage pane
 
-ステージペインでは、背景を選択しました。
+  \--- feedback ---
 
-  --- /feedback ---
+You went to the Stage pane to choose a backdrop.
 
---- /choices ---
+\--- /feedback ---
 
---- /question ---
+\--- /choices ---
+
+\--- /question ---

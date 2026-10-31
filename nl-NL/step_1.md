@@ -1,35 +1,39 @@
-## Wat ga je maken
+## What you will make
 
-Creëer een ruimtescène met personages 👾 die emoties gebruiken om hun gedachten of gevoelens te delen.
+Create a space scene with characters 👾 that 'emote' to share their thoughts or feelings.
 
-In Scratch worden karakters en objecten **sprites** genoemd en verschijnen ze op het **speelveld**.
+In Scratch, characters and objects are called **sprites**, and they appear on the **Stage**.
 
-Je gaat:
-+ Sprites en een **achtergrond** toevoegen om je project op te zetten
-+ Op sprites klikken om ze te laten communiceren met behulp van `Uiterlijken`{:class="block3looks"} en `Geluid`{:class="block3sound"} codeblokken
-+ De **Paint-editor** gebruiken om een **uiterlijk** te veranderen
+You will:
 
---- no-print ---
---- task ---
-### Afspelen ▶️
+- Add sprites and a **backdrop** to set up your project
+- Click on sprites to make them communicate using `Looks`{:class="block3looks"} and `Sound`{:class="block3sound"} code blocks
+- Use the **Paint editor** to change a **costume**
+
+\--- no-print ---
+\--- task ---
+
+### Play ▶️
+
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Klik op elke sprite om te zien wat ze doen. 
+Click on each sprite to see what they do. 
 
-Wat gebeurt er als je op een sprite klikt en dan snel op een andere sprite klikt?
+What happens if you click on one sprite and then quickly click on another sprite?
+
 </div>
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/595587060/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
 </div>
 </div>
 --- /task ---
 --- /no-print ---
 
---- print-only ---
+\--- print-only ---
 
-![Het voltooide project.](images/showcase_static.png)
+![The completed project.](images/showcase_static.png)
 
---- /print-only ---
+\--- /print-only ---
 
 ![](https://code.org/api/hour/begin_raspi_space.png)
 
