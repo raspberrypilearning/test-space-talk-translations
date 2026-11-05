@@ -1,19 +1,19 @@
-Onglet Code
+Code tab
 
-Menu des blocs
+Blocks menu
 
-Sac à dos
+Backpack
 
 Zoom
 
-Liste des sprites
+Sprite list
 
-Volet Sprites
+Sprite pane
 
-Volet de scène
+Stage pane
 
-Volet de scène
+Stage pane
 
-Plein écran
+Full screen
 
-Zone de code
+Code area

@@ -1,117 +1,117 @@
-## Créer ta scène
+## Create your scene
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Configure ton projet avec un arrière-plan spatial et le premier sprite. 
+Set up your project with a space backdrop and the first sprite. 
 </div>
 <div>
 
-![La toile de fond Space avec le sprite Pico.](images/backdrop-step.png){:width="300px"}
+![The Space backdrop with the Pico sprite.](images/backdrop-step.png){:width="300px"}
 
 </div>
 </div>
 
-### Ouvre le projet de démarrage
+### Open the starter project
 
---- task ---
+\--- task ---
 
-Ouvre le [projet de démarrage Space talk](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch s'ouvrira dans un autre onglet du navigateur.
+Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch will open in another browser tab.
 
 [[[working-offline]]]
 
---- /task ---
+\--- /task ---
 
-### L'éditeur Scratch
+### The Scratch editor
 
-![Une capture d'écran annotée de l'éditeur Scratch, avec la scène, le volet Scène, le volet Sprite, la liste Sprite et la zone Code étiquetés.](images/scratch-interface.png)
+![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
 
-### Ajouter un arrière-plan
+### Add a backdrop
 
-La **Scène** est l'endroit où ton projet s'exécute. Un **arrière-plan** change l'apparence de la scène.
+The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
 
---- task ---
+\--- task ---
 
-Clique (ou sur une tablette, appuie) sur **Choisir un arrière-plan** dans le volet Scène :
+Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
 
-![L'icône « Choisir un arrière-plan ».](images/backdrop-button.png)
+![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
 
-![L'éditeur Scratch avec « Choisir un arrière-plan » mis en évidence dans le coin inférieur droit.](images/choose-a-backdrop.png)
+![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Clique sur **Space** ou tape `space` dans le champ de recherche :
+Click on the **Space** category or type `space` in the search box:
 
-![La bibliothèque d'arrière-plan avec la catégorie « Space » sélectionnée.](images/space-backdrops.png)
+![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
 
---- /task ---
+\--- /task ---
 
-Dans notre exemple, nous avons choisi **Space**, mais choisis l'arrière-plan que tu aimes le plus.
+In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
 
---- task ---
+\--- task ---
 
-Clique sur l'arrière-plan de ton choix pour l'ajouter à ton projet. La scène doit afficher l'arrière-plan que tu as choisi :
+Click on your chosen backdrop to add it to your project. The Stage should show the backdrop that you chose:
 
-![L'éditeur Scratch avec l'arrière-plan Espace ajouté.](images/inserted-backdrop.png)
+![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
 
---- /task ---
+\--- /task ---
 
-### Ajouter un sprite
+### Add a Sprite
 
-Peux-tu voir le sprite qui est déjà inclus dans ton projet ? C'est le chat Scratch.
+Can you see the sprite that is already included in your project? That is the Scratch Cat.
 
---- task ---
+\--- task ---
 
-Supprimer le sprite **Sprite1** (Chat Scratch) : sélectionne le sprite **Sprite1** dans la liste Sprite sous la scène et clique sur l'icône **Supprimer**.
+Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
 
-![L'icône « Supprimer ».](images/delete-sprite.png)
+![The 'Delete' icon.](images/delete-sprite.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Clique sur **Choisir un Sprite** dans la liste Sprite :
+Click on **Choose a Sprite** in the Sprite list:
 
-![L'icône 'Choisir un Sprite'.](images/sprite-button.png)
+![The 'Choose a Sprite' icon.](images/sprite-button.png)
 
-![L'éditeur Scratch avec « Choisir un Sprite » en surbrillance.](images/choose-a-sprite.png)
+![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Sélectionne la catégorie **Fantaisie**. Clique sur le sprite **Pico** pour l'ajouter à ton projet.
+Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
 
-![La catégorie « Fantaisie » avec le sprite Pico.](images/fantasy-pico.png)
+![The 'Fantasy' category with the Pico sprite.](images/fantasy-pico.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Fais glisser le sprite **Pico** pour le positionner sur le côté gauche de la scène. Ta scène devrait ressembler à ceci :
+Drag the **Pico** sprite to position them on the left-hand side of the Stage. Your Stage should look something like this:
 
-![La scène avec le l'arrière-plan choisi et le sprite Pico positionné sur le côté gauche.](images/pico-on-stage.png)
+![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-**Sauvegarde** : si tu es connecté·e à ton compte Scratch, clique sur le bouton vert Remix. Cela enregistrera une copie du projet sur ton compte Scratch.
+**Save**: If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
 
-![Bouton Remix.](images/remix-button.png)
+![The remix button.](images/remix-button.png)
 
-Tape le nom de ton projet dans la zone nom du projet en haut de l'écran.
+Type the name of your project in the project name box at the top of the screen.
 
-![La zone de nom du projet.](images/project-name.png)
+![The project name box.](images/project-name.png)
 
-**Astuce :** Donne à tes projets des noms utiles afin de pouvoir les retrouver facilement lorsque tu auras de nombreux projets.
+**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
 
-Ensuite, clique sur **Fichier**, puis sur **Enregistrer maintenant** pour enregistrer ton projet.
+Next, click on **File**, and then on **Save now** to save your project.
 
-![Les options du menu « Fichier ».](images/file-menu.png)
+![The 'File' menu options.](images/file-menu.png)
 
-Si tu n'es pas en ligne ou que tu n'as pas de compte Scratch, tu peux cliquer sur **Sauvegarder sur votre ordinateur** pour enregistrer une copie de ton projet.
+If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
 
---- /task ---
+\--- /task ---
 

@@ -1,56 +1,55 @@
-## Teste rápido
+## Quick quiz
 
-Responda às três perguntas para obter seu distintivo Conversa Espacial. Existem dicas para guiá-lo para a resposta correta.
+Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
 
-Após responder cada pergunta, clique em **Ver minha resposta**.
+When you have answered each question, click on **Check my answer**.
 
-Divirta-se!
+Have fun!
 
---- question ---
----
-legend: Pergunta 1 de 3
----
+## --- question ---
 
-Em seu projeto, você adicionou um cenário e alguns personagens (atores).
+## legend: Question 1 of 3
 
-Onde você vai para **adicionar um ator** ao seu projeto?
+In your project, you added some sprite characters.
 
-![Uma captura de tela anotada do editor Scratch completo com 1 — A guia Fantasias, 2 — A guia Sons, 3 — Lista de Atores e 4 — O painel Palco destacado.](images/question1.png)
+Where do you go to **add a sprite** to your project?
 
---- choices ---
+![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
 
-- ( ) 1: A aba **Fantasias**
+\--- choices ---
 
-  --- feedback ---
+- ( ) 1: The **Costumes** tab
 
-Você foi para a guia **Fantasias** para editar uma fantasia para o seu ator.
+  \--- feedback ---
 
-  --- /feedback ---
+You went to the **Costumes** tab to edit a costume for your sprite.
 
-- ( ) 2: A aba **Sons**
+\--- /feedback ---
 
-  --- feedback ---
+- ( ) 2: The **Sounds** tab
 
-Você foi até a guia **Sons** para escolher um novo som para seu ator.
+  \--- feedback ---
 
-  --- /feedback ---
+You went to the **Sounds** tab to choose a new sound for your sprite.
 
-- (x) 3: A lista de atores
+\--- /feedback ---
 
-  --- feedback ---
+- (x) 3: The Sprite list
 
-Sim. Esta é a área onde você pode ver todos os atores no projeto, adicionar e deletar atores e clicar nos atores para selecioná-los.
+  \--- feedback ---
 
-  --- /feedback ---
+Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
 
-- ( ) 4: O painel do palco
+\--- /feedback ---
 
-  --- feedback ---
+- ( ) 4: The Stage pane
 
-Você foi para o painel Palco para escolher um Cenário.
+  \--- feedback ---
 
-  --- /feedback ---
+You went to the Stage pane to choose a backdrop.
 
---- /choices ---
+\--- /feedback ---
 
---- /question ---
+\--- /choices ---
+
+\--- /question ---
