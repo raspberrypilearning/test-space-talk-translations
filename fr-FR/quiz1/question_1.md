@@ -1,56 +1,55 @@
-## Questionnaire rapide
+## Quick quiz
 
-Réponds aux trois questions pour obtenir ton badge Parler de l'espace. Il y a des indices pour te guider vers la bonne réponse.
+Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
 
-Lorsque tu as répondu à chaque question, clique sur **Vérifier ma réponse**.
+When you have answered each question, click on **Check my answer**.
 
-Amuse-toi bien !
+Have fun!
 
---- question ---
----
-legend: Question 1 sur 3
----
+## --- question ---
 
-Dans ton projet, tu as ajouté des sprite personnages.
+## legend: Question 1 of 3
 
-Où vas-tu pour **ajouter un sprite** à ton projet ?
+In your project, you added some sprite characters.
 
-![](images/question1.png)
+Where do you go to **add a sprite** to your project?
 
---- choices ---
+![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
 
-- ( ) 1 : L'onglet **Costumes**
+\--- choices ---
 
-  --- feedback ---
+- ( ) 1: The **Costumes** tab
 
-Tu es allé·e dans l'onglet **Costumes** pour modifier un costume pour ton sprite.
+  \--- feedback ---
 
-  --- /feedback ---
+You went to the **Costumes** tab to edit a costume for your sprite.
 
-- ( ) 2 : L'onglet **Sons**
+\--- /feedback ---
 
-  --- feedback ---
+- ( ) 2: The **Sounds** tab
 
-Tu es allé·e dans l'onglet **Sons** pour choisir un nouveau son pour ton sprite.
+  \--- feedback ---
 
-  --- /feedback ---
+You went to the **Sounds** tab to choose a new sound for your sprite.
 
-- (x) 3: La liste des Sprites
+\--- /feedback ---
 
-  --- feedback ---
+- (x) 3: The Sprite list
 
-Oui. C'est la zone où tu peux voir tous les sprites du projet, ajouter et supprimer des sprites, et cliquer sur les sprites pour les sélectionner.
+  \--- feedback ---
 
-  --- /feedback ---
+Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
 
-- ( ) 4: Le volet Scène
+\--- /feedback ---
 
-  --- feedback ---
+- ( ) 4: The Stage pane
 
-Tu es allé·e dans le volet Scène pour choisir un arrière plan.
+  \--- feedback ---
 
-  --- /feedback ---
+You went to the Stage pane to choose a backdrop.
 
---- /choices ---
+\--- /feedback ---
 
---- /question ---
+\--- /choices ---
+
+\--- /question ---

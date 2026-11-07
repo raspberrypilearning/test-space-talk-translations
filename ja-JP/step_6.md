@@ -1,58 +1,81 @@
-## Gigaの色を変える
+## Nano signs "Thanks!"
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-スプライトでは、ふきだしを使ったり色を変えたりして個性を出すこともできます。 Gigaには次のようなことをさせます。
+
+Get Nano to sign by editing a costume.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
+</p>
+
 </div>
 <div>
 
-![Gigaスプライトが「うーん...」と考える](images/giga-step2.png){:width="300px"}
+![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
 
-### Gigaの色を変える
+### Nano uses sign language
 
---- task ---
+You will edit a costume of Nano to get them to sign "thank you".
 
-**Giga**スプライトを追加します。
+You can edit costumes for sprites with the Paint editor.
 
-**Giga**スプライトをステージの右側にドラッグします。
+\--- task ---
 
---- /task ---
+Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
 
---- task ---
+![The available costumes for the Nano sprite.](images/nano-costumes.png)
 
-ステージの下にあるスプライトリストで**Giga**スプライトが選択されていることを確認します。 次のコードを追加して、**Giga**スプライトが色を変えることでコミュニケーションを行うようにします。
+\--- /task ---
 
-![Gigaスプライト。](images/giga-sprite.png)
+\--- task ---
 
-```blocks3
-when this sprite clicked
-set [color v] effect to [0] // 0が最初の色
-think [うーん...] for [2] seconds 
-clear graphic effects // 最初の色に戻る
-```
+Click on the **nano-b** costume. Click on the arm on the left-hand side.
 
---- /task ---
+![The nano-b costume with the left arm selected.](images/nano-left-arm-selected.png)
 
-**ヒント:** コード、コスチューム、または音を追加または変更する前に、ステージの下にあるスプライトリストでスプライトをクリックします。 正しいスプライトをクリックしていることを確認してください。
+\--- /task ---
 
---- task ---
+\--- task ---
 
-`色の効果を...にする`{:class="block3looks"} ブロックで`1`から`200`までのさまざまな数字を試してお気に入りの数を見つけます。
+Select the double-headed 'rotate' arrow and drag the mouse up to rotate the arm.
 
---- /task ---
+![The rotate tool highlighted](images/rotate-tool.png)
 
---- task ---
+![The direction to rotate - curving up and to the left](images/rotate-demo.png)
 
-`...と考える`{:class="block3looks"} ブロックで言葉や数字を変更します。
+The costume should look like this:
 
---- /task ---
+![Nano's arm rotated so it touches their chin](images/nano-arm-rotated.png)
 
---- task ---
+\--- /task ---
 
-**テスト:** ステージの**Giga**スプライトをクリックし、スプライトの色が変わり、ふきだしが表示されることを確認します。
+\--- task ---
 
---- /task ---
+Select the 'Front' tool to make the arm the front layer.
+
+![Nano's arm at the front layer](images/nano-arm-front.png)
+
+\--- /task ---
+
+**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
+
+![The 'Undo' icon.](images/nano-undo.png)
+
+\--- no-print ---
+
+![Animation showing rotating the arm and placing it on the front layer.](images/nano-rotate-resize-lrg.gif)
+
+\--- /no-print ---
+
+\--- task ---
+
+**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes to the costume that you have edited.
+
+\--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+</p>
 
