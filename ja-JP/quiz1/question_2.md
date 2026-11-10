@@ -1,51 +1,49 @@
+## --- question ---
 
---- question ---
----
-legend: 質問2/3
----
+## legend: Question 2 of 3
 
-Picoに吹き出しで「こんにちは！」と`言わせ`{:class="block3looks"}ました。
+You made Pico `say`{:class="block3looks"} "Hello!" in a speech bubble.
 
 ```blocks3
-say [こんにちは！] for [2] seconds
+say [Hello!] for [2] seconds
 ```
 
-このブロックはどこにありますか？
+Where would you go to find this block?
 
---- choices ---
+\--- choices ---
 
-- (x) `見た目`{:class="block3looks"}
+- (x) `Looks`{:class="block3looks"}
 
-  --- feedback ---
+  \--- feedback ---
 
-正解 `言う`{:class="block3looks"}ブロックは、ブロックと同じ色を持つ`見た目`{:class="block3looks"}ブロックメニューにあります。
+Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
 
-  --- /feedback ---
+\--- /feedback ---
 
-- ( ) `音`{:class="block3sound"}
+- ( ) `Sound`{:class="block3sound"}
 
-  --- feedback ---
+  \--- feedback ---
 
-`音`{:class="block3sound"}ブロックメニューのブロックは、スプライトに音声を再生させるために使用されます。
+The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
 
-  --- /feedback ---
+\--- /feedback ---
 
-- ( ) `動き`{:class="block3motion"}
+- ( ) `Motion`{:class="block3motion"}
 
-  --- feedback ---
+  \--- feedback ---
 
-`動き`{:class="block3motion"}ブロックメニューのブロックは、スプライトを動かすために使用されます。
+The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
 
-  --- /feedback ---
+\--- /feedback ---
 
-- ( ) `イベント`{:class="block3events"}
+- ( ) `Events`{:class="block3events"}
 
-  --- feedback ---
+  \--- feedback ---
 
-`イベント`{:class="block3events"}ブロックメニューのブロックは、イベントを発生させるために使用されます。
+The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
 
-  --- /feedback ---
+\--- /feedback ---
 
---- /choices ---
+\--- /choices ---
 
---- /question ---
+\--- /question ---
