@@ -1,83 +1,83 @@
-## Pico відтворює звук
+## Pico plays a sound
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Ще одним способом спілкування є використання звуку.
+Another way to communicate is to use sound.
 </div>
 <div>
 
-![Спрайт Pico, який каже: "Привіт!"](images/pico-step2.png){:width="300px"}
+![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
-### Додай звук до спрайта Pico
+### Add a sound to the Pico Sprite
 
---- task ---
+\--- task ---
 
-Клацни на вкладку **Звуки** для спрайта **Pico** і ти знайдеш звук **pop**. Клацни на іконку **Грати**, щоб прослухати звук **pop**.
+Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click on the **Play** icon to hear the **pop** sound.
 
-![Відтворення звуку pop на вкладці Звуки.](images/pico-sound-play.png)
+![Playing the pop sound in the Sounds tab.](images/pico-sound-play.png)
 
-**Налагодження**: Якщо ти не чуєш звук, перевір, чи працює звук на твоєму комп'ютері або планшеті.
+**Debug**: If you cannot hear a sound then check that sound is working on your computer or tablet.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Щоб вибрати новий звук, натисни на іконку **Обрати звук** та вибери категорію **Космос** або введи у полі пошуку `space`.
+To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
 
-![Іконка 'Обрати звук'.](images/sound-button.png)
+![The 'Choose a Sound' icon.](images/sound-button.png)
 
-![Редактор Scratch з виділеною кнопкою 'Обрати звук'.](images/pico-choose-sound.png)
+![The Scratch editor with 'Choose a Sound' highlighted.](images/pico-choose-sound.png)
 
-![Категорія 'Космос' у бібліотеці Звуку.](images/pico-space-category.png)
+![The 'Space' category in the Sound Library.](images/pico-space-category.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Відтвори кілька різних звуків за допомогою іконки **Грати**. Після того, як знайдеш звук, який хочеш використати, натисни на нього, щоб додати його до свого проєкту.
+Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
 
-![Приклад звуку (Alien Creak1), який знаходиться під звуком pop на вкладці Звуки.](images/pico-inserted-sound.png)
+![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
 
---- /task ---
+\--- /task ---
 
-### Зробити так, щоб звук відтворювався при натисканні (або дотику, якщо на планшеті)
+### Make the sound play when clicked (or tapped)
 
---- task ---
+\--- task ---
 
-Натисни на вкладку **Код**. У меню блоків `Звук`{:class="block3sound"}, знайди блок `відтворити звук`{:class="block3sound"}.
+Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block.
 
-Перетягни блок в область Коду, між блоком `коли спрайт натиснуто`{:class="block3events"} та блоком `говорити`{:class="block3looks"}. Відкриється зазор і блок зафіксується на місці.
+Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
 
-![Блок 'відтворити звук' додається між двома блоками.](images/pico-insert-block.gif)
+![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
 
-Твій код повинен виглядати так:
+Your code should look like this:
 
-![Спрайт Pico.](images/pico-sprite.png)
+![The Pico sprite.](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
 +start sound [Alien Creak1 v] 
-say [Привіт!] for [2] seconds // приховати мову через 2 секунди
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
---- /task ---
+\--- /task ---
 
-### Протестуй свій код
+### Test your code
 
---- task ---
+\--- task ---
 
-Переконайся що блок `відтворити звук`{:class="block3sound"} має у ньому вибраний звук. Якщо ні, потрібно натиснути на звук у блоці `відтворити звук`{:class="block3sound"}, та вибрати потрібний тобі звук у спливаючому меню.
+Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
 
-![Натискання на звук Alien Creak1 у спливаючому меню блока 'відтворити звук'.](images/pico-sound-menu.png)
+![Clicking on the Alien Creak1 sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-**Тест:** Натисни на спрайт **Pico** і переконайся, що мовна бульбашка з'явилася, і ти чуєш звук. Якщо ти не чуєш звук, переконайся, що ти додав блок `відтворити звук`{:class="block3sound"} під блоком `коли спрайт натиснуто`{:class="block3events"}.
+**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block.
 
---- /task ---
+\--- /task ---
 
