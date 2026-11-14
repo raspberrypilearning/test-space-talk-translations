@@ -1,83 +1,83 @@
-## Pico maakt een geluid
+## Pico plays a sound
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Een andere manier om te communiceren is het gebruik van geluid.
+Another way to communicate is to use sound.
 </div>
 <div>
 
-![De Pico sprite zegt: "Hallo!"](images/pico-step2.png){:width="300px"}
+![The Pico sprite saying, "Hello!"](images/pico-step2.png){:width="300px"}
 
 </div>
 </div>
 
-### Voeg een geluid toe aan de Pico sprite
+### Add a sound to the Pico Sprite
 
---- task ---
+\--- task ---
 
-Klik op de **Geluiden** tab voor de **Pico** sprite en je zult een **pop** geluid vinden. Klik op het **Spelen** pictogram om het **pop** geluid te horen.
+Click on the **Sounds** tab for the **Pico** sprite and you will find a **pop** sound. Click on the **Play** icon to hear the **pop** sound.
 
-![Het popgeluid afspelen op het tabblad Geluiden.](images/pico-sound-play.png)
+![Playing the pop sound in the Sounds tab.](images/pico-sound-play.png)
 
-**Fouten oplossen**: Als je geen geluid kunt horen, controleer dan of het geluid werkt op je computer of tablet.
+**Debug**: If you cannot hear a sound then check that sound is working on your computer or tablet.
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Om een nieuw geluid te kiezen, klik je op het **Kies een geluid** pictogram en selecteer de **Ruimte** categorie of typ `space` in het zoekvak.
+To choose a new sound, click on the **Choose a Sound** icon and select the **Space** category or type `space` in the search box.
 
-![Het pictogram 'Kies een geluid'.](images/sound-button.png)
+![The 'Choose a Sound' icon.](images/sound-button.png)
 
-![De Scratch-editor met 'Kies een geluid' gemarkeerd.](images/pico-choose-sound.png)
+![The Scratch editor with 'Choose a Sound' highlighted.](images/pico-choose-sound.png)
 
-![De categorie 'Ruimte' in de geluidsbibliotheek.](images/pico-space-category.png)
+![The 'Space' category in the Sound Library.](images/pico-space-category.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Speel een paar verschillende geluiden met behulp van het **Afspeel** pictogram. Zodra je een geluid hebt gevonden dat je wil gebruiken klik je erop om het aan jouw project toe te voegen.
+Play a few different sounds using the **Play** icons. Once you have found the sound that you want to use, click on it to add it to your project.
 
-![Een voorbeeldgeluid (het Alien Creak1-geluid) dat wordt weergegeven onder het popgeluid op het tabblad Geluiden.](images/pico-inserted-sound.png)
+![An example sound (the Alien Creak1 sound) shown below the pop sound in the Sounds tab.](images/pico-inserted-sound.png)
 
---- /task ---
+\--- /task ---
 
-### Laat het geluid afspelen wanneer erop wordt geklikt (of getikt)
+### Make the sound play when clicked (or tapped)
 
---- task ---
+\--- task ---
 
-Klik op het **Code** tabblad. Zoek bij de `Geluid`{:class="block3sound"} blokken het blok `start geluid`{:class="block3sound"}.
+Click on the **Code** tab. In the `Sound`{:class="block3sound"} blocks menu, find the `start sound`{:class="block3sound"} block.
 
-Sleep het blok naar het codegebied tussen `wanneer op deze sprite wordt geklikt`{:class="block3events"} blok en het `zeg`{:class="block3looks"} blok. Er ontstaat een opening en het blok klikt op zijn plaats.
+Drag the block into the Code area, between the `when this sprite clicked`{:class="block3events"} block and the `say`{:class="block3looks"} block. A gap will open up and the block will snap into place.
 
-![Het 'startgeluid'-blok dat tussen de twee blokken wordt toegevoegd.](images/pico-insert-block.gif)
+![The 'start sound' block being added between the two blocks.](images/pico-insert-block.gif)
 
-Je code zou er als volgt uit moeten zien:
+Your code should look like this:
 
-![De Pico sprite.](images/pico-sprite.png)
+![The Pico sprite.](images/pico-sprite.png)
 
 ```blocks3
 when this sprite clicked
 +start sound [Alien Creak1 v] 
-say [Hallo!] for [2] seconds // spraak verbergen na 2 seconden
+say [Hello!] for [2] seconds // hide speech after 2 seconds
 ```
 
---- /task ---
+\--- /task ---
 
-### Test je code
+### Test your code
 
---- task ---
+\--- task ---
 
-Controleer of jouw `start geluid`{:class="block3sound"} blok het door jou gekozen geluid bevat. Als dit niet het geval is, moet je op het geluid in het `start geluid`{:class="block3sound"} blok klikken en vervolgens het door jou gekozen geluid in het keuzemenu selecteren.
+Check that your `start sound`{:class="block3sound"} block has your chosen sound in it. If it does not, you need to click on the sound in the `start sound`{:class="block3sound"} block, then select your chosen sound in the drop-down menu.
 
-![Klikken op het Alien Creak1-geluid in het keuzemenu binnen het blok 'start geluid'.](images/pico-sound-menu.png)
+![Clicking on the Alien Creak1 sound in the drop-down menu within the 'start sound' block.](images/pico-sound-menu.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-**Test:** Klik op de **Pico** sprite en controleer of de tekstballon verschijnt en je het geluid kunt horen. Als je het geluid niet hoort, zorg er dan voor dat je het `start geluid`{:class="block3sound"} blok hebt toegevoegd onder het `wanneer op deze sprite wordt geklikt`{:class="block3events"} blok.
+**Test:** Click on the **Pico** sprite and check that the speech bubble appears and you can hear the sound. If you do not hear the sound, make sure that you have added the `start sound`{:class="block3sound"} block under the `when this sprite clicked`{:class="block3events"} block.
 
---- /task ---
+\--- /task ---
 
