@@ -1,56 +1,55 @@
-## Kurzes Quiz
+## Quick quiz
 
-Beantworte die drei Fragen, um deinen Space Talk Badge zu erhalten. Hinweise helfen dir beim Finden der richtigen Antwort.
+Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
 
-Nach dem Beantworten der Fragen wähle **Meine Antwort prüfen**.
+When you have answered each question, click on **Check my answer**.
 
-Viel Spaß!
+Have fun!
 
---- question ---
----
-legend: Frage 1 von 3
----
+## --- question ---
 
-Du hast in deinem Projekt Figuren hinzugefügt.
+## legend: Question 1 of 3
 
-Wo hast du die Auswahl **add a sprite** zu deinem Projekt durchgeführt?
+In your project, you added some sprite characters.
 
-![Ein Screenshot mit Beschreibung von Scratch Editor mit 1 — Kostüme Reiter, 2 — Klänge Reiter, 3 — Sprite Liste, und 4 — Bühne Bereich.](images/question1.png)
+Where do you go to **add a sprite** to your project?
 
---- choices ---
+![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
 
-- ( ) 1: Der **Kostüme** Reiter
+\--- choices ---
 
-  --- feedback ---
+- ( ) 1: The **Costumes** tab
 
-Du hast unter dem **Kostüme** Reiter ein Kostüm für deine Figur bearbeitet.
+  \--- feedback ---
 
-  --- /feedback ---
+You went to the **Costumes** tab to edit a costume for your sprite.
 
-- ( ) 2: Der **Klänge** Reiter
+\--- /feedback ---
 
-  --- feedback ---
+- ( ) 2: The **Sounds** tab
 
-Du hast unter dem **Klänge** Reiter einen neuen Klang für deine Figur ausgewählt.
+  \--- feedback ---
 
-  --- /feedback ---
+You went to the **Sounds** tab to choose a new sound for your sprite.
 
-- (x) 3: Die Figuren Liste
+\--- /feedback ---
 
-  --- feedback ---
+- (x) 3: The Sprite list
 
-Ja. In diesem Bereich kannst du deine Figuren im Projekt ansehen, neue Figuren hinzufügen, vorhandene Figuren löschen und mit einem Klick auswählen.
+  \--- feedback ---
 
-  --- /feedback ---
+Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
 
-- ( ) 4: Bühne
+\--- /feedback ---
 
-  --- feedback ---
+- ( ) 4: The Stage pane
 
-Du hast den Hintergrund im Bereich Bühne ausgewählt.
+  \--- feedback ---
 
-  --- /feedback ---
+You went to the Stage pane to choose a backdrop.
 
---- /choices ---
+\--- /feedback ---
 
---- /question ---
+\--- /choices ---
+
+\--- /question ---

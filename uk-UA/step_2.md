@@ -1,117 +1,117 @@
-## Створення своєї сцени
+## Create your scene
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Налаштуй свій проєкт за допомогою космічного фону та першого спрайта. 
+Set up your project with a space backdrop and the first sprite. 
 </div>
 <div>
 
-![Космічний фон зі спрайтом Pico.](images/backdrop-step.png){:width="300px"}
+![The Space backdrop with the Pico sprite.](images/backdrop-step.png){:width="300px"}
 
 </div>
 </div>
 
-### Відкрий початковий проєкт
+### Open the starter project
 
---- task ---
+\--- task ---
 
-Відкрий [Стартовий проєкт Космічна розмова](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch відкриється в іншій вкладці браузера.
+Open the [Space talk starter project](https://scratch.mit.edu/projects/582213331/editor){:target="_blank"}. Scratch will open in another browser tab.
 
 [[[working-offline]]]
 
---- /task ---
+\--- /task ---
 
-### Редактор Scratch
+### The Scratch editor
 
-![Скріншот редактора Scratch з позначеними Сценою, панеллю Сцени, панеллю Спрайтів, списком Спрайтів та областю Коду.](images/scratch-interface.png)
+![An annotated screenshot of the Scratch editor, with the Stage, Stage pane, Sprite pane, Sprite list, and Code area labelled.](images/scratch-interface.png)
 
-### Додай тло
+### Add a backdrop
 
-**Сцена** - це місце, де виконується твій проєкт. **Тло** змінює зовнішній вигляд Сцени.
+The **Stage** is where your project runs. A **backdrop** changes the way that the Stage looks.
 
---- task ---
+\--- task ---
 
-Клацни (або на планшеті торкнись) на **Обрати тло** на панелі Спрайтів:
+Click (or on a tablet, tap) on **Choose a Backdrop** in the Stage pane:
 
-![Іконка 'Обрати тло'.](images/backdrop-button.png)
+![The 'Choose a Backdrop' icon.](images/backdrop-button.png)
 
-![Редактор з виділеною кнопкою 'Обрати тло' у правому нижньому куті.](images/choose-a-backdrop.png)
+![The Scratch editor with 'Choose a Backdrop' highlighted in the bottom right-hand corner.](images/choose-a-backdrop.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Клацни на категорію **Космос** category або введи у поле пошуку `space`:
+Click on the **Space** category or type `space` in the search box:
 
-![Бібліотека Тлів з вибраною категорію 'Космос'.](images/space-backdrops.png)
+![The Backdrop Library with the 'Space' category selected.](images/space-backdrops.png)
 
---- /task ---
+\--- /task ---
 
-У нашому прикладі ми обрали тло **Space**, але ти обирай той фон, який тобі найбільше подобається.
+In our example, we have chosen the **Space** backdrop, but choose the backdrop that you like the most.
 
---- task ---
+\--- task ---
 
-Натисни на обране тло, щоб додати його до свого проєкту. На Сцені має бути зображено тло, яке було обрано:
+Click on your chosen backdrop to add it to your project. The Stage should show the backdrop that you chose:
 
-![Редактор Scratch з додаванням космічного тла.](images/inserted-backdrop.png)
+![The Scratch editor with the Space backdrop added.](images/inserted-backdrop.png)
 
---- /task ---
+\--- /task ---
 
-### Додай спрайт
+### Add a Sprite
 
-Ти бачиш спрайт, який вже включений у твій проєкт? Це кіт Scratch.
+Can you see the sprite that is already included in your project? That is the Scratch Cat.
 
---- task ---
+\--- task ---
 
-Видали спрайт **Спрайт1** (Кіт Scratch): вибери спрайт **Спрайт1** у списку Спрайтів під Сценою та натисни на іконку **Видалити**.
+Delete the **Sprite1** (Scratch Cat) sprite: select the **Sprite1** sprite in the Sprite list below the Stage and click on the **Delete** icon.
 
-![Іконка 'Видалити'.](images/delete-sprite.png)
+![The 'Delete' icon.](images/delete-sprite.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Клацни на **Обрати спрайт** у списку Спрайтів:
+Click on **Choose a Sprite** in the Sprite list:
 
-![Іконка 'Обрати спрайт'.](images/sprite-button.png)
+![The 'Choose a Sprite' icon.](images/sprite-button.png)
 
-![Редактор Scratch з виділеною іконкою 'Обрати спрайт'.](images/choose-a-sprite.png)
+![The Scratch editor with 'Choose a Sprite' highlighted.](images/choose-a-sprite.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Вибери категорію **Фантазії**. Клацни на спрайт **Pico**, щоб додати його до свого проєкту.
+Select the **Fantasy** category. Click on the **Pico** sprite to add them to your project.
 
-![Категорія 'Фантазії' зі спрайтом Pico.](images/fantasy-pico.png)
+![The 'Fantasy' category with the Pico sprite.](images/fantasy-pico.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Перетягуй спрайт **Pico**, щоб розмістити його з лівого боку Сцени. Твоя Сцена повинна виглядати приблизно так:
+Drag the **Pico** sprite to position them on the left-hand side of the Stage. Your Stage should look something like this:
 
-![Сцена з обраним тлом і спрайтом Pico, розташованим з лівого боку.](images/pico-on-stage.png)
+![The Stage with the chosen backdrop and the Pico sprite positioned on the left-hand side.](images/pico-on-stage.png)
 
---- /task ---
+\--- /task ---
 
---- task ---
+\--- task ---
 
-**Збереження**: Якщо ти увійшов до свого облікового запису Scratch, натисни на зелену кнопку Ремікс. Це збереже копію проєкту у твоєму обліковому записі Scratch.
+**Save**: If you are signed in to your Scratch account, click on the green Remix button. This will save a copy of the project to your Scratch account.
 
-![Кнопка ремікс.](images/remix-button.png)
+![The remix button.](images/remix-button.png)
 
-Введи назву твого проєкту в поле для назви проєкту у верхній частині екрана.
+Type the name of your project in the project name box at the top of the screen.
 
-![Поле назви проєкту.](images/project-name.png)
+![The project name box.](images/project-name.png)
 
-**Порада:** Давай проєктам зрозумілі назви, щоб їх можна було легко знайти, коли у тебе буде багато проєктів.
+**Tip:** Give your projects helpful names so that you can easily find them when you have lots of projects.
 
-Далі, натисни на **Файл**, а потім на **Зберегти негайно**, щоб зберегти свій проєкт.
+Next, click on **File**, and then on **Save now** to save your project.
 
-![Опції меню 'Файл'.](images/file-menu.png)
+![The 'File' menu options.](images/file-menu.png)
 
-Якщо ти зараз або не маєш облікового запису Scratch, можеш натиснути на **Вивантажити на ваш комп'ютер**, щоб зберегти копію твого проєкту.
+If you are not online or you do not have a Scratch account, you can click on **Save to your computer** to save a copy of your project.
 
---- /task ---
+\--- /task ---
 

@@ -1,51 +1,49 @@
+## --- question ---
 
---- question ---
----
-legend: Pergunta 2 de 3
----
+## legend: Question 2 of 3
 
-Você fez Pico `dizer`{:class="block3looks"} "Olá!" em um balão de fala.
+You made Pico `say`{:class="block3looks"} "Hello!" in a speech bubble.
 
 ```blocks3
-say [Olá!] for [2] seconds
+say [Hello!] for [2] seconds
 ```
 
-Onde você iria encontrar este bloco?
+Where would you go to find this block?
 
---- choices ---
+\--- choices ---
 
-- (x) `Aparência`{:class="block3looks"}
+- (x) `Looks`{:class="block3looks"}
 
-  --- feedback ---
+  \--- feedback ---
 
-Sim. O bloco `diga`{:class="block3looks"} está no menu de blocos `Aparência`{:class="block3looks"}, que é da mesma cor do bloco.
+Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
 
-  --- /feedback ---
+\--- /feedback ---
 
-- ( ) `Som`{:class="block3sound"}
+- ( ) `Sound`{:class="block3sound"}
 
-  --- feedback ---
+  \--- feedback ---
 
-Os blocos no menu de blocos `Som`{:class="block3sound"} são usados para fazer os atores tocarem sons.
+The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
 
-  --- /feedback ---
+\--- /feedback ---
 
-- ( ) `Movimento`{:class="block3motion"}
+- ( ) `Motion`{:class="block3motion"}
 
-  --- feedback ---
+  \--- feedback ---
 
-Os blocos no menu de blocos `Movimento`{:class="block3motion"} são usados para fazer os sprites se moverem.
+The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
 
-  --- /feedback ---
+\--- /feedback ---
 
-- ( ) `Eventos`{:class="block3events"}
+- ( ) `Events`{:class="block3events"}
 
-  --- feedback ---
+  \--- feedback ---
 
-Os blocos no menu de blocos `Eventos`{:class="block3events"} são usados para fazer as coisas acontecerem.
+The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
 
-  --- /feedback ---
+\--- /feedback ---
 
---- /choices ---
+\--- /choices ---
 
---- /question ---
+\--- /question ---
