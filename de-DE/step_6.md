@@ -1,58 +1,81 @@
-## Giga ändert die Farbe
+## Nano signs "Thanks!"
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Figuren können auch Denkblasen verwenden und ihre Farbe ändern, um ihre Persönlichkeit zu zeigen. Du wirst Giga dazu bringen dies zu tun.
+
+Get Nano to sign by editing a costume.
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">Millions of people use sign language to communicate. A common way to sign 'Thank you' is to place your fingers on your chin with your hand as flat as possible. You then move your hand forwards, away from your chin and slightly down. 
+</p>
+
 </div>
 <div>
 
-![Die Giga-Figur denkt, "Hmm...".](images/giga-step2.png){:width="300px"}
+![The Nano sprite saying, "Thanks!"](images/nano-step-2.png){:width="300px"}
 
 </div>
 </div>
 
-### Giga ändert die Farbe
+### Nano uses sign language
 
---- task ---
+You will edit a costume of Nano to get them to sign "thank you".
 
-Füge die **Giga**-Figur hinzu.
+You can edit costumes for sprites with the Paint editor.
 
-Ziehe die **Giga**-Figur auf die rechte Seite der Bühne.
+\--- task ---
 
---- /task ---
+Click on the **Costumes** tab to see the costumes for the **Nano** sprite:
 
---- task ---
+![The available costumes for the Nano sprite.](images/nano-costumes.png)
 
-Stelle sich, dass du die **Giga**-Figur in der Figurenliste unter der Bühne ausgewählt hast. Füge diesen Code zur **Giga**-Figur hinzu um sie über Farbänderungen kommunizieren zu lassen:
+\--- /task ---
 
-![Die Giga-Figur.](images/giga-sprite.png)
+\--- task ---
 
-```blocks3
-when this sprite clicked
-set [Farbe v] effect to [0] // 0 ist die Startfarbe
-think [Hmm...] for [2] seconds 
-clear graphic effects // zurück zur Ausgangsfarbe
-```
+Click on the **nano-b** costume. Click on the arm on the left-hand side.
 
---- /task ---
+![The nano-b costume with the left arm selected.](images/nano-left-arm-selected.png)
 
-**Tipp:** Klicke auf die Figur in der Figuren-Liste unter der Bühne, bevor du Code, Kostüme oder Klänge hinzufügst oder änderst. Stelle sicher, dass du auf die richtige Figur geklickt hast.
+\--- /task ---
 
---- task ---
+\--- task ---
 
-Probiere verschiedene Zahlen von `1` bis `200` im Block `setze Effekt Farbe auf`{:class="block3looks"} aus, bis du eine Farbe findest, die dir gefällt.
+Select the double-headed 'rotate' arrow and drag the mouse up to rotate the arm.
 
---- /task ---
+![The rotate tool highlighted](images/rotate-tool.png)
 
---- task ---
+![The direction to rotate - curving up and to the left](images/rotate-demo.png)
 
-Ändere die Wörter und Anzahl der Sekunden im `denke`{:class="block3looks"}-Block.
+The costume should look like this:
 
---- /task ---
+![Nano's arm rotated so it touches their chin](images/nano-arm-rotated.png)
 
---- task ---
+\--- /task ---
 
-**Test:** Klicke auf der Bühne auf die **Giga**-Figur und prüfe, ob die Figur die Farbe ändert und eine Gedankenblase anzeigt.
+\--- task ---
 
---- /task ---
+Select the 'Front' tool to make the arm the front layer.
+
+![Nano's arm at the front layer](images/nano-arm-front.png)
+
+\--- /task ---
+
+**Tip:** If you make a mistake in the Paint editor, you can click on **Undo**.
+
+![The 'Undo' icon.](images/nano-undo.png)
+
+\--- no-print ---
+
+![Animation showing rotating the arm and placing it on the front layer.](images/nano-rotate-resize-lrg.gif)
+
+\--- /no-print ---
+
+\--- task ---
+
+**Test:** Click on the **Nano** sprite on the Stage and check that Nano's costume changes to the costume that you have edited.
+
+\--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">You have learned how to sign "thank you". Next time you thank someone, why not use your new skill?
+</p>
 
