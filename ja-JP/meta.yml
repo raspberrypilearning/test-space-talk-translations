@@ -1,29 +1,31 @@
 ---
-title: スペーストーク
+title: Space talk
 hero_image: images/banner.png
-description: Scratchでスプライトに「感情を表現（エモート）」させ、クリックでコミュニケーションできるようにしましょう。
-meta_title: 幼児・小学生と十代の若者向けの言語スクラッチ を用いたコーディング プロジェクト |Scratch入門
-meta_description: Raspberry Pi Foundation による幼児、小中学生向けのコーディング プロジェクトで、スクラッチ言語によるコーディングを学びましょう。Scratch アニメーション、ゲーム、アプリなどを作成します。
+description: Use Scratch to give sprites an 'emote' so that they communicate when clicked
+meta_title: Scratch coding projects for kids and teens | Intro to Scratch
+meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make Scratch animations, games, apps, and more.
+pdf: resources/space-talk.pdf
 listed: true
 copyedit: false
-last_tested: '2021-02-09'
+last_tested: "2021-02-09"
 steps:
-- title: はじめに
-- title: 場面を作る
-- title: Picoに「こんにちは」と言わせる
-  completion:
-  - engaged
-- title: Picoが音を出す
-- title: Nanoのコスチュームを変える
-- title: Gigaの色を変える
-  completion:
-  - internal
-- title: ふりかえり
-  knowledge_quiz:
-    path: quiz1
-    version: 1
-    questions: 3
-    passing_score: 3
-  completion:
-  - external
-- title: プロジェクトをアップグレードする
+  - title: What you will make
+  - title: Create your scene
+  - title: Pico says hello
+    completion:
+      - engaged
+  - title: Pico plays a sound
+  - title: Nano switches costumes
+  - title: Nano signs "Thanks!"
+  - title: Giga changes colour
+    completion:
+      - internal
+  - title: Quick quiz
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion:
+      - external
+  - title: Upgrade your project

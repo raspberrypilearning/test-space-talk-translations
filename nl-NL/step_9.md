@@ -1,38 +1,38 @@
-## Verbeter je project
+## Upgrade your project
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-Voeg de **Tera** sprite toe en gebruik een van de blokken waar je over hebt geleerd om een 'emotie' te maken voor de **Tera** sprite.
+Add the **Tera** sprite and use any of the blocks that you have learned about to make an 'emote' for the **Tera** sprite.
 </div>
 <div>
 
-![De Tera sprite in het Speelveld.](images/tera-step.png){:width="300px"}
+![The Tera sprite on the Stage.](images/tera-step.png){:width="300px"}
 
 </div>
 </div>
 
-Je kunt ook de tekst-naar-spraakextensie gebruiken om **Tera** echt te laten praten:
+You could also use the Text to Speech extension to make **Tera** speak out loud:
 
 [[[scratch3-text-to-speech]]]
 
-De persoonlijkheid van de **Tera** sprite is jouw keuze, dus veel plezier met het gebruiken van je eigen creatieve ideeën.
+The **Tera** sprite's personality is your choice, so have fun using your own creative ideas.
 
 ```blocks3
 when this sprite clicked
 
-say [Hallo!] for [2] seconds
+say [Hello!] for [2] seconds
 
-say [Hallo!]
+say [Hello!]
 
-say [] // tekstballon verbergen
+say [] // hide speech bubble
 
 think [Hmm...] for [2] seconds
 
 switch costume to [tera-d v]
 
-wait (1) seconds // 0.5 is een halve seconde
+wait (1) seconds // 0.5 is half a second
 
-set [kleur v] effect to [0] // aantal tot 200
+set [color v] effect to [0] // number up to 200
 
 clear graphic effects
 
@@ -40,20 +40,19 @@ play sound [pop v] until done
 
 start sound [pop v]
 
-speak [hallo]
+speak [hello]
 ```
 
-Je kunt het project ook 'remixen' om wijzigingen die je leuk vindt aan te brengen. Je zou de achtergrond kunnen veranderen, en hoe de sprites emoties laten zien, en zelfs verschillende sprites kiezen en ze emoties geven.
+You can also 'remix' the project to make any changes you like. You could change the backdrop, and how the sprites emote, and even choose different sprites and give them emotes.
 
-**Tip:** Klik op een sprite in de Sprite-ijst onder het Speelveld om de code, de uiterlijken en het geluid voor die sprite te wijzigen.
+**Tip:** Click on a sprite in the Sprite list below the Stage to change the code, costumes, and sound for that sprite.
 
---- collapse ---
----
-title: Voltooid project
----
+## --- collapse ---
 
-Je kunt het [voltooide project hier](https://scratch.mit.edu/projects/595587060/){:target="_blank"} bekijken.
+## title: Completed project
 
---- /collapse ---
+You can view the [completed project here](https://scratch.mit.edu/projects/485673032/){:target="_blank"}.
 
---- save ---
+\--- /collapse ---
+
+\--- save ---

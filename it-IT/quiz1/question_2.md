@@ -1,51 +1,49 @@
+## --- question ---
 
---- question ---
----
-legend: Domanda 2 di 3
----
+## legend: Question 2 of 3
 
-Hai fatto `dire`{:class="block3looks"} a Pico "Ciao!" in un fumetto.
+You made Pico `say`{:class="block3looks"} "Hello!" in a speech bubble.
 
 ```blocks3
-say [Ciao!] for [2] seconds
+say [Hello!] for [2] seconds
 ```
 
-Dove andresti per trovare questo blocco?
+Where would you go to find this block?
 
---- choices ---
+\--- choices ---
 
-- (x) `Aspetto`{:class="block3looks"}
+- (x) `Looks`{:class="block3looks"}
 
-  --- feedback ---
+  \--- feedback ---
 
-Sì. Il blocco `dire`{:class="block3looks"} si trova nel menù dei blocchi `Aspetto`{:class="block3looks"}, che è dello stesso colore.
+Yes. The `say`{:class="block3looks"} block is in the `Looks`{:class="block3looks"} blocks menu, which is the same colour as the block.
 
-  --- /feedback ---
+\--- /feedback ---
 
-- ( ) `Suono`{:class="block3sound"}
+- ( ) `Sound`{:class="block3sound"}
 
-  --- feedback ---
+  \--- feedback ---
 
-I blocchi nel menu dei blocchi `Suono`{:class="block3sound"} sono utilizzati per far riprodurre dei suoni agli sprite.
+The blocks in the `Sound`{:class="block3sound"} blocks menu are used to make sprites play sounds.
 
-  --- /feedback ---
+\--- /feedback ---
 
-- ( ) `Movimento`{:class="block3motion"}
+- ( ) `Motion`{:class="block3motion"}
 
-  --- feedback ---
+  \--- feedback ---
 
-I blocchi nel menu dei blocchi `Movimento`{:class="block3motion"} sono utilizzati per far muovere gli sprite.
+The blocks in the `Motion`{:class="block3motion"} blocks menu are used to make sprites move.
 
-  --- /feedback ---
+\--- /feedback ---
 
-- ( ) `Situazioni`{:class="block3events"}
+- ( ) `Events`{:class="block3events"}
 
-  --- feedback ---
+  \--- feedback ---
 
-I blocchi nel menu dei blocchi `Situazioni`{:class="block3events"} sono utilizzati per far succedere le cose.
+The blocks in the `Events`{:class="block3events"} blocks menu are used to make things happen.
 
-  --- /feedback ---
+\--- /feedback ---
 
---- /choices ---
+\--- /choices ---
 
---- /question ---
+\--- /question ---
