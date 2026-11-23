@@ -1,56 +1,55 @@
-## Snelle quiz
+## Quick quiz
 
-Beantwoord de drie vragen om je Ruimte praat-badge te krijgen. Er zijn tips om je naar het juiste antwoord te leiden.
+Answer the three questions to get your Space talk badge. There are hints to guide you to the correct answer.
 
-Wanneer je elke vraag hebt beantwoord, klik je op **Verzenden**.
+When you have answered each question, click on **Check my answer**.
 
-Veel plezier!
+Have fun!
 
---- question ---
----
-legend: Vraag 1 van 3
----
+## --- question ---
 
-In je project heb je een achtergrond en enkele sprite-personages toegevoegd.
+## legend: Question 1 of 3
 
-Waar ga je naar toe om **een sprite toe te voegen** aan je project?
+In your project, you added some sprite characters.
 
-![Een schermafbeelding met commentaar van de volledige Scratch editor met 1 - de uiterlijken tab, 2 - de geluiden tab, 3 - de sprite lijst, en 4 - het speelveld venster gemarkeerd.](images/question1.png)
+Where do you go to **add a sprite** to your project?
 
---- choices ---
+![An annotated screenshot of the full Scratch editor with 1 — The Costumes tab, 2 — The Sounds tab, 3 — The Sprite list, and 4 — The Stage pane highlighted.](images/question1.png)
 
-- ( ) 1: Het tabblad **Uiterlijken**
+\--- choices ---
 
-  --- feedback ---
+- ( ) 1: The **Costumes** tab
 
-Je ging naar het tabblad **Uiterlijken** om een uiterlijk voor je sprite te bewerken.
+  \--- feedback ---
 
-  --- /feedback ---
+You went to the **Costumes** tab to edit a costume for your sprite.
 
-- ( ) 2: Het tabblad **Geluiden**
+\--- /feedback ---
 
-  --- feedback ---
+- ( ) 2: The **Sounds** tab
 
-Je ging naar het tabblad **Geluiden** om een nieuw geluid voor je sprite te kiezen.
+  \--- feedback ---
 
-  --- /feedback ---
+You went to the **Sounds** tab to choose a new sound for your sprite.
 
-- (x) 3: De Sprite-lijst
+\--- /feedback ---
 
-  --- feedback ---
+- (x) 3: The Sprite list
 
-Ja. Dit is het gebied waar je alle sprites in het project kunt zien, sprites kunt toevoegen en verwijderen en op sprites kunt klikken om ze te selecteren.
+  \--- feedback ---
 
-  --- /feedback ---
+Yes. This is the area where you can see all of the sprites in the project, add and delete sprites, and click on sprites to select them.
 
-- ( ) 4: Het deelvenster Speelveld
+\--- /feedback ---
 
-  --- feedback ---
+- ( ) 4: The Stage pane
 
-Je ging naar het Speelveld-paneel om een achtergrond te kiezen.
+  \--- feedback ---
 
-  --- /feedback ---
+You went to the Stage pane to choose a backdrop.
 
---- /choices ---
+\--- /feedback ---
 
---- /question ---
+\--- /choices ---
+
+\--- /question ---
