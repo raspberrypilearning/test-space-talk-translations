@@ -1,29 +1,29 @@
-Hallo!
+Hello!
 
-spraak verbergen na 2 seconden
+hide speech after 2 seconds
 
-wanneer op Nano wordt geklikt
+when Nano is clicked
 
-Nano praat
+Nano talking
 
-probeer 0.25 in plaats van 0.5
+try 0.25 instead of 0.5
 
-Hmm...
+Hm...
 
-0 is de startkleur
+0 is the starting colour
 
-terug naar de startkleur
+back to the starting colour
 
-tekstballon verbergen
+hide speech bubble
 
-aantal tot 200
+number up to 200
 
-0.5 is een halve seconde
+0.5 is half a second
 
-speelt geluid af, wacht niet
+plays sound, doesn't wait
 
-toont tekstballon
+shows speech bubble
 
-hand naar mond brengen
+put hand to mouth
 
-lachend
+smiling
